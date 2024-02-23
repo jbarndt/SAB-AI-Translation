@@ -1,0 +1,5342 @@
+# Interface Translations
+# Scripture App Builder 11.1
+# Created: 12-Jan-2024 11:23:00
+
+[Translations]
+
+$ Menu_Bible
+en: Bible
+fr: Bible
+es: Biblia
+pt: Bíblia
+ru: Библия
+de: Bibel
+it: Bibbia
+nl: Bijbel
+hi: बाइबल
+zh: 圣经
+id: Alkitab
+ko: 성경
+zu: IBhayibheli
+fa: کتابمقدس
+
+$ Menu_Contents
+en: Contents
+fr: Contenu
+tr: İçindekiler
+id: Isi
+mal: ഉള്ളടക്കം
+es: Contenido
+pt: Conteúdo
+zh: 目录
+vi: Nội dung
+fa: فهرست
+ru: Содержание
+de: Inhalt
+az: Mündəricat
+ar: المحتوى
+hi: विषय-सूची
+te: విషయ సూచిక
+ko: 목차
+ms: Kandungan
+nl: Index
+ta: உள்ளடக்கம்
+zu: Okuqukethwe
+rif: Lmuḥtawayaṯ
+zh-tw: 內容
+ben: বিষয়বস্তু সেট করুন
+
+$ Menu_Search
+en: Search
+fr: Rechercher
+es: Buscar
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+tr: Arama
+id: Penelusuran
+zh: 搜索
+mal: തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: البحث
+hi: खोज
+te: వెతకండి
+ko: 검색
+ms: Carian
+nl: Zoeken
+ta: தேடுதல்
+zu: Sesha
+rif: Arzu
+zh-ch: 搜索
+zh-tw: 搜尋
+ben: অনুসন্ধান করুন
+
+$ Menu_Layout
+en: Language & Layout
+fr: Langue et agencement
+tr: Dil ve Yerleşim
+id: Bahasa dan Tata Letak
+mal: ഭാഷയും ലേഔട്ടും
+es: Idioma y Diseño
+pt: Idioma & Layout
+zh: 语言布局
+vi: Ngôn ngữ & Trình bày
+fa: زبان و آرایش
+ru: Язык и разметка
+de: Sprache und Layout
+az: Dil və düzən
+ar: اللغة والتصميم
+hi: भाषा और लेआउट
+te: భాష మరియు విన్యాసం
+ko: 언어 & 배치
+nl: Taal & Lay out
+ta: தள அமைப்பு
+zu: Ulimi neSendlaleko
+rif: Iȓes ḏ Usettef
+zh-tw: 語言&介面
+ben: ভাষা ও বিন্যাস
+
+$ Menu_History
+en: History
+fr: Historique
+fa: سابقه
+ru: История
+es: Historia
+pt: Histórico
+de: Verlauf
+id: Sejarah
+az: Tarixçə
+ar: اللائحة
+hi: पुर्व मे देखि गयि वचन
+te: గతంలో చూసిన వాక్యం
+ko: 사용기록
+nl: Geschiedenis
+ta: முந்தைய வாசிப்புகள்
+zu: Umlando
+zh: 历史
+rif: Ttarix
+ben: ইতিহাস
+
+$ Menu_Settings
+en: Settings
+fr: Paramètres
+es: Configuración
+pt: Configurações
+ru: Настройки
+uk: Налаштування
+tr: Ayarlar
+zh: 设置
+id: Pengaturan
+mal: ക്രമീകരണങ്ങള്‍
+vi: Cài đặt
+fa: تنظیمات
+de: Einstellungen
+az: Parametrlər
+ar: إعدادات
+hi: सेटिंग्स
+te: సెట్టింగులు
+ko: 설정
+ms: Tetapan
+nl: Instellingen
+ta: செயலி அமைப்புகள்
+zu: Amasethingi
+rif: Rriglaj
+zh-ch: 设置
+zh-tw: 設定
+ben: সেটিংস
+
+$ Menu_About
+en: About
+fr: A propos
+es: Acerca de
+pt: Sobre
+ru: О программе
+uk: Про програму
+tr: Hakkında
+id: Seputar
+zh: 关于
+mal: കൂടുതല്‍ വിവരങ്ങള്‍
+vi: Về
+fa: درباره
+de: Impressum
+az: Haqqında
+ar: بخصوص
+hi: विषय
+te: విషయం
+ko: 정보
+ms: Tentang
+nl: Info
+ta: எங்களைப் பற்றி
+zu: Okumayelana
+rif: Lmaƹlumaṯ
+zh-ch: 关于
+zh-tw: 關於
+ben: সম্পর্কিত
+
+$ Menu_Text_Appearance
+en: Text Appearance
+fr: Taille de police
+es: Tamaño de texto
+pt: Tamanho do texto
+ru: Размер текста
+uk: Розмір тексту
+tr: Metin Görünüşü
+id: Ukuran teks
+zh: 文字大小
+mal: അക്ഷര ക്രമീകരണം
+vi: Hình thức văn bản
+fa: طرح متن
+de: Texteinstellungen
+az: Mətn Görüntü
+ar: مظهر الصفحات والنص
+hi: दिखावट
+te: వాక్య స్వరూపం
+ko: 글꼴 설정
+ms: Penampilan teks
+nl: Tekstweergave
+ta: எழுத்து அமைப்பு
+zu: Indlela umbhalo obukeka ngayo
+rif: Aƹedduȓ n ṯira
+zh-ch: 文字大小
+zh-tw: 文字大小
+ben: পাঠ্য চেহারা
+
+$ Menu_Share_App
+en: Share App
+fr: Partager application
+es: Compartir aplicación
+pt: Compartilhar aplicativo
+tr: Uygulamayı Paylaş
+id: Bagikan aplikasi
+mal: ആപ്പ് ഷെയര്‍ ചെയ്യുക
+zh: 共享应用程序
+vi: Chia sẻ App
+fa: اشتراک گذاری نرم افزار
+ru: Поделиться приложением
+de: App weitergeben
+az: Tətbiqi paylaş
+ar: إشتراك التطبيقات
+hi: ऐप शेयर करें
+te: ఆప్ ని షెర్ చెయ్యండి
+ko: 공유
+ms: Kangsi App
+nl: App delen
+ta: செயலியைப் பகிர
+zu: I-Share App
+rif: Carec tteṭbiq
+zh-tw: 分享App
+ben: অ্যাপ্লিকেশন ভাগ করা
+
+$ Menu_Downloads
+en: Downloads
+fr: Téléchargements
+es: Descargas
+id: Unduhan
+ar: التنزيلات
+nl: Downloads
+ta: பதிவிறக்கங்கள்
+ru: Загрузки
+de: Herunterladen
+zu: Amadawunilodi
+zh: 下载
+fa: بارگیری ها
+rif: Tteḥmilaṯ
+ben: ডাউনলোড
+
+$ Menu_Edit
+en: Edit
+fr: Editer
+es: Editar
+pt: Editar
+ru: Редактировать
+uk: Редаргувати
+tr: Düzenle
+id: Sunting
+zh: 编辑
+mal: തിരുത്തുക
+vi: Chỉnh sửa
+fa: ویرایش
+de: Bearbeiten
+az: Redaktə
+ar: التحرير
+hi: सम्पादित
+te: ఎడిట్
+ko: 편집
+ms: Menyunting
+nl: Bewerken
+ta: திருத்தி அமைக்க
+zu: Hlela
+rif: Beddeȓ
+zh-ch: 编辑
+zh-tw: 編輯
+ben: সম্পাদনা করুন
+
+$ Menu_Users_Add
+en: Add User
+fr: Ajouter utilisateur
+pt: Adicionar Usuário
+zh: 添加用户
+ru: Добавить пользователя
+id: Menambah Pengguna
+ar: إضافة مستخدم
+hi: उपयोगकर्ता जोड़ें
+te: వినియోగదారులను చేర్చండి
+ko: 사용자 추가
+es: Añadir usuario
+de: Benutzer hinzufügen
+zu: Engeza Umsebenzisi
+fa: اضافه کردن کاربر
+rif: Arni lmustaƹmil
+
+$ Menu_Users_List
+en: Users
+fr: Utilisateurs
+pt: Usuários
+zh: 用户
+ru: Пользователи
+es: Usuarios
+id: Pengguna
+ar: المستخدمين
+hi: उपयोगकर्ताओं
+te: వినియోగదారులు
+ko: 사용자
+de: Benutzer
+zu: Abasebenzisi
+fa: کاربر ها
+rif: Lmustaƹmilin
+
+$ Menu_Home
+en: Home
+fr: Accueil
+tr: Ev
+id: Beranda
+mal: ഹോം
+es: Bienvenido
+pt: Página Inicial
+zh: 首页
+vi: Trang chủ
+fa: خانه
+ru: Главная
+de: Startseite
+az: Başlanğıc
+ar: إستقبال
+hi: होम
+te: హోమ్
+ko: 초기화면
+ms: Muat Turun
+nl: Home
+ta: முகப்பு
+zu: Ikhaya
+rif: Amezwaru
+zh-tw: 首頁
+ben: †nvg
+
+$ Menu_Reset_Contents
+en: Reset Contents
+fr: Réinitialiser le contenu
+ru: Сбросить настройки содержания
+de: Inhalt zurücksetzen
+ar: إعادة ضبط المحتويات
+zu: Setha Kabusha Okuqukethwe
+zh: 重置内容
+fa: تنظیم محتوا
+rif: Egg lmuḥtawayaṯ zi jḏiḏ
+ben: বিষয়বস্তু পুনরায় সেট করুন
+
+$ Menu_Plans
+en: Plans
+fr: Plans
+es: Planes
+zu: Amapulani
+zh: 计划
+fa: برنامه
+
+$ Menu_Item_Copy
+en: Copy
+fr: Copier
+es: Copiar
+pt: Copiar
+ar: نسخ
+nl: Kopiëren
+ta: நகல் எடு
+ru: Копировать
+de: Kopieren
+zu: Kopisha
+zh: 复制
+fa: کپی
+rif: Nsex
+ben: কপি
+
+$ Menu_Item_Share
+en: Share
+fr: Partager
+es: Compartir
+pt: Compartilhar
+id: Bagikan
+ar: مشاركة
+nl: Delen
+ta: பகிர்
+ru: Поделиться
+de: Teilen Sie
+zu: Abelana
+zh: 分享
+fa: اشتراک گذاری
+rif: Carec
+ben: শেয়ার করুন
+
+$ Menu_Item_Image
+en: Image
+fr: Image
+es: Imagen
+pt: Imagem
+ar: صورة
+nl: Afbeelding
+ta: நிழற்படம்
+ru: Картинка
+de: Bild
+zu: Isithombe
+zh: 图片
+fa: تصویر
+rif: Tteṣwirṯ
+ben: ছবি
+
+$ Annotation_Bookmarks
+en: Bookmarks
+fr: Signets
+tr: Yer imleri
+id: Bookmark
+mal: ബുക്ക് മാർക്കുകൾ
+es: Marcadores
+pt: Favoritos
+zh: 书签
+vi: Làm dấu
+fa: نشانه ها
+ru: Закладки
+de: Lesezeichen
+az: Əlfəcinlər
+ar: إشارات مرجعية
+hi: बुक मार्क
+te: బుక్ మార్క్స్
+ko: 책갈피
+nl: Favorieten
+ta: குறிக்கப்பட்ட வசனங்கள்
+zu: Amabhukhimakhi
+rif: Lƹalamaṯ
+zh-tw: 書籤
+ben: বুকমার্ক
+
+$ Annotation_Highlights
+en: Highlights
+fr: Surlignements
+tr: Önemli Noktalar
+id: Highlight
+mal: ഹൈലൈറ്റുകൾ
+es: Resaltados
+pt: Destaques
+zh: 突出
+vi: Làm nổi bật
+fa: برجسته ها
+ru: Выделенный текст
+de: Farbmarkierungen
+az: Vurğulamalar
+ar: النقاط الرئيسية
+hi: प्रमुख्ताएं
+te: ప్రత్యేకతలు
+ko: 하이라이트
+nl: Hoogtepunten
+ta: முக்கிய வசனங்கள்
+zu: Amaphuzu avelele
+rif: Kulur n ṯiȓa
+zh-tw: 標示
+ben: হাইলাইটস
+
+$ Annotation_Notes
+en: Notes
+fr: Notes
+es: Notas
+tr: Notlar
+id: Catatan
+mal: കുറിപ്പുകള്‍
+pt: Notas
+zh: 注释
+vi: Ghi chú
+fa: یادداشت ها
+ru: Заметки
+de: Notizen
+az: Qeydlər
+ar: ملاحظات
+hi: टिप्पणियाँ
+te: గమనికలు
+ko: 노트
+nl: Aantekeningen
+ta: எனது குறிப்புகள்
+zu: Amanothi
+rif: Lmulaḥaḍaṯ
+zh-tw: 筆記
+ben: মন্তব্য
+
+$ Annotation_Note_Add
+en: Add Note
+fr: Ajouter note
+tr: Not Ekle
+id: Menambahkan catatan
+mal: കുറിപ്പുകള്‍ ചേര്‍ക്കുക
+es: Añadir Nota
+pt: Adicionar Nota
+zh: 添加注释
+vi: Thêm ghi chú
+fa: اضافه کردن یادداشت
+ru: Добавить заметку
+de: Notiz hinzufügen
+az: Qeydlər et
+ar: إضافة ملاحظات
+hi: नोट जोड़ें
+te: గమనికను జోడించండి
+ko: 노트 추가
+nl: Aantekening toevoegen
+ta: குறிப்பு எடு
+zu: Engeza Inothi
+rif: Arni lmulaḥaḍa
+zh-tw: 新增筆記
+ben: নোট যোগ করুন
+
+$ Annotation_Note_Edit
+en: Edit Note
+fr: Modifier note
+tr: Notu Düzenle
+id: Edit Catatan
+mal: കുറിപ്പുകള്‍ തിരുത്തുക
+es: Editar nota
+pt: Editar Nota
+zh: 注释
+vi: Sửa ghi chú
+fa: ویرایش یادداشت
+ru: Редактировать заметку
+de: Notiz bearbeiten
+az: Qeydləri Redaktə et
+ar: تعديل الملاحظات
+hi: नोट सम्पादित करें
+te: నోట్ మార్చు
+ko: 노트 편집
+nl: Aantekening bewerken
+ta: குறிப்பை திருத்து
+zu: Hlela Inothi
+rif: Beddeȓ lmulaḥaḍa
+zh-tw: 編輯筆記
+ben: নোট সম্পাদনা করুন
+
+$ Annotation_Menu_View
+en: View
+fr: Voir
+tr: Görünüm
+id: Melihat
+mal: കാണുക
+es: Ver
+pt: Visualizar
+zh: 编辑注释
+vi: Xem
+fa: نمایش
+ru: Посмотреть
+de: Ansicht
+az: Bax
+ar: مشاهدة
+hi: अवलोकन
+te: పరిశీలన
+ko: 보기
+nl: Beeld
+ta: நோக்கு
+zu: Buka
+rif: Xzar
+zh-tw: 檢視
+ben: দেখুন
+
+$ Annotation_Menu_Delete
+en: Delete
+fr: Supprimer
+tr: Sil
+id: Menghapus
+mal: നീക്കം ചെയ്യുക
+es: Borrar
+pt: Excluir
+zh: 删除
+vi: Xóa
+fa: حذف کردن
+ru: Удалить
+de: Löschen
+az: Sil
+ar: حذف
+hi: डिलीट
+te: తొలగించు
+ko: 삭제
+nl: Verwijderen
+ta: அழி
+zu: Cisha
+rif: Mḥa
+zh-tw: 刪除
+ben: মুছে দিন
+
+$ Annotation_Menu_Edit
+en: Edit
+fr: Modifier
+tr: Düzenle
+id: Edit
+mal: തിരുത്തുക
+es: Editar
+pt: Editar
+zh: 编辑
+vi: Chỉnh sửa
+fa: ویرایش
+ru: Редактировать
+de: Bearbeiten
+az: Redaktə
+ar: تعديل
+hi: संपादन
+te: మార్పులు చెయ్యి
+ko: 편집
+nl: Bewerken
+ta: திருத்து
+zu: Hlela
+rif: Beddeȓ
+zh-tw: 編輯
+ben: সম্পাদনা করুন
+
+$ Annotation_Menu_Share
+en: Share
+fr: Partager
+tr: Paylaş
+id: Bagikan
+mal: ഷെയര്‍ ചെയ്യുക
+es: Compartir
+pt: Compartilhar
+zh: 共享
+vi: Chia sẻ
+fa: اشتراک گذاری
+ru: Поделиться
+de: Teilen
+az: Paylaş
+ar: مشاركة
+hi: बँटे
+te: పంచడం
+ko: 공유
+nl: Delen
+ta: பகிர்
+zu: Abelana
+rif: Carec
+zh-tw: 分享
+ben: শেয়ার করুন
+
+$ Annotation_Sort_Order_Reference
+en: By Reference
+fr: Par référence
+tr: Referansa göre
+id: Oleh referensi
+mal: റഫറൻസ് പ്രകാരം
+es: Por Referencia
+pt: Por Referência
+zh: 按参考
+vi: Theo tham chiếu
+fa: بر اساس مرجع
+ru: По ссылке
+de: Nach Referenz
+az: İstinad görə sırala
+ar: على أساس المرجع
+hi: संदर्भ से
+te: రెఫెరెన్సును బట్టి
+ko: 참고문헌별
+nl: Sorteer op naam
+ta: வசனங்களின் படி
+zu: Ireferensi
+rif: Ƹlaḥsab lmarjiƹ
+zh-tw: 依照註解排序
+ben: তথ্য অনুসারে
+
+$ Annotation_Sort_Order_Date
+en: By Date
+fr: Par date
+tr: Tarihe göre
+id: Oleh referensi
+mal: തീയതി പ്രകാരം
+es: Por fecha
+pt: Por Data
+zh: 按日期
+vi: Theo ngày
+fa: بر اساس زمان
+ru: По дате
+de: Nach Datum
+az: Tarixə görə sırala
+ar: حسب التاريخ
+hi: तिथि के अनुसार
+te: తేదీని బట్టి
+ko: 날짜별
+nl: Sorteer op datum
+ta: தேதியின் படி
+zu: Ngokosuku
+rif: Ƹlaḥsab ttarix
+zh-tw: 依照日期排序
+ben: তারিখ অনুসারে
+
+$ Annotation_Sort_Order_Color
+en: By Color
+fr: Par couleur
+tr: Renge göre
+id: Oleh Warna
+mal: നിറം പ്രകാരം
+es: Por Color
+pt: Por Cor
+zh: 按颜色
+vi: Theo màu
+fa: بر اساس رنگ
+ru: По цвету
+de: Nach Farbe
+az: Rəngi ​​ilə
+ar: على طريقة الألوان
+hi: रंग से
+te: రంగులను బట్టి
+ko: 색깔별
+nl: Sorteer op kleur
+ta: நிறத்தின் படி
+zu: Ngokombala
+rif: Ƹlaḥsab kulur
+zh-tw: 依照顏色排序
+ben: রঙ দ্বারা
+
+$ Annotation_Bookmarks_None
+en: You do not have any bookmarks
+fr: Vous n'avez aucun signet
+es: No tienes marcadores
+pt: Você não tem marcadores
+
+$ Annotation_Bookmarks_None_Info
+en: To add one, tap on a verse and press the Bookmark button.
+fr: Pour en ajouter un, appuyez sur un verset et appuyez sur le bouton Signet.
+es: Para añadir uno, toca un verso y presiona el botón de Marcador.
+pt: Para adicionar um, toque em um versículo e pressione o botão de Marcador.
+
+$ Annotation_Highlights_None
+en: You do not have any highlights
+fr: Vous n'avez aucun surlignement
+es: No tienes resaltados
+pt: Você não tem destaques
+
+$ Annotation_Highlights_None_Info
+en: To add one, tap on a verse, press the Highlight button and select a color.
+fr: Pour en ajouter un, appuyez sur un verset, appuyez sur le bouton Surligner et sélectionnez une couleur
+es: Para añadir uno, toca un verso, presiona el botón de Resaltar y selecciona un color.
+pt: Para adicionar um, toque em um versículo, pressione o botão de Destaque e selecione uma cor.
+
+$ Annotation_Notes_None
+en: You do not have any notes
+fr: Vous n'avez aucune note
+es: No tienes notas
+pt: Você não tem notas
+
+$ Annotation_Notes_None_Info
+en: To add one, tap on a verse, press the Notes button and type the note.
+fr: Pour en ajouter une, appuyez sur un verset, appuyez sur le bouton Notes et saisissez la note.
+es: Para añadir una, toca un verso, presiona el botón de Notas y escribe la nota.
+pt: Para adicionar uma, toque em um versículo, pressione o botão de Notas e digite a nota.
+
+$ Button_OK
+en: OK
+fr: OK
+es: OK
+pt: OK
+ru: OK
+uk: OK
+tr: Tamam
+zh: 行
+id: OK
+mal: ഓക്കേ
+vi: OK
+fa: موافق
+de: OK
+az: OK
+ar: موافق
+hi: ठीक
+te: ఓకే
+ko: OK
+ms: OK
+nl: Oké
+ta: சரி
+zu: Kulungile
+rif: Waxxa
+zh-ch: 行
+zh-tw: OK
+ben: ঠিক আছে
+
+$ Button_Yes
+en: Yes
+fr: Oui
+es: Si
+pt: Sim
+ru: Да
+uk: Так
+tr: Evet
+zh: 是
+id: Ya
+mal: അതെ
+vi: Đồng ý
+fa: بله
+de: Ja
+az: Bəli
+ar: نعم
+hi: हाँ
+te: అవును
+ko: 예
+ms: Ya
+nl: Ja
+ta: ஆம்
+zu: Yebo
+rif: Wah
+zh-ch: 是
+zh-tw: 是
+ben: হ্যা
+
+$ Button_No
+en: No
+fr: Non
+es: No
+pt: Não
+ru: Нет
+uk: Ні
+tr: Hayır
+zh: 不是
+id: Tidak
+mal: അല്ല
+vi: Không
+fa: خیر
+de: Nein
+az: Xeyr
+ar: لا
+hi: नहीं
+te: కాదు
+ko: 아니오
+ms: Tidak
+nl: Nee
+ta: இல்லை
+zu: Cha
+rif: Lla
+zh-ch: 不是
+zh-tw: 不是
+ben: না
+
+$ Button_No_Thanks
+en: No Thanks
+fr: Non Merci
+es: No Gracias
+pt: Não Obrigado
+ru: Нет спасибо
+de: Nein Danke
+
+$ Button_Close
+en: Close
+fr: Fermer
+es: Cerrar
+pt: Fechar
+ru: Закрыть
+uk: Закрити
+tr: Kapat
+id: Tutup
+zh: 关闭
+mal: അടയ്ക്കുക
+vi: Đóng
+fa: بستن
+de: Schließen
+az: Bağla
+ar: غلق
+hi: बंद
+te: మూసి వెయ్యి
+ko: 닫기
+ms: Tutup
+nl: Sluiten
+ta: பின்செல்
+zu: Vala
+rif: Belleƹ
+zh-ch: 关闭
+zh-tw: 關閉
+ben: বন্ধ
+
+$ Button_Cancel
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+tr: İptal etmek
+id: Batal
+zh: 取消
+mal: ക്യാന്‍സല്‍ ചെയ്യുക
+vi: Hủy
+fa: لغو کردن
+de: Beenden
+az: Ləğv et
+ar: إلغاء
+hi: निरस्त
+te: రద్దు చెయ్యి
+ko: 취소
+ms: Batal
+nl: Annuleren
+ta: நீக்கு
+zu: Sula
+rif: Kkes
+zh-ch: 取消
+zh-tw: 取消
+ben: বাতিল করুন
+
+$ Button_Delete
+en: Delete
+fr: Supprimer
+es: Borrar
+pt: Excluir
+tr: Sil
+id: Menghapus
+mal: നീക്കം ചെയ്യുക
+zh: 删除
+vi: Xóa
+fa: حذف کردن
+ru: Удалить
+de: Löschen
+az: Sil
+ar: حذف
+hi: डिलीट
+te: తొలగించు
+ko: 삭제
+nl: Verwijderen
+zu: Cisha
+rif: Mḥa
+ben: মুছে ফেল
+
+$ Button_Share
+en: Share
+fr: Partager
+es: Compartir
+pt: Compartilhar
+id: Bagikan
+ar: مشاركة
+nl: Delen
+ta: பகிர்
+ru: Поделиться
+de: Teilen Sie
+zu: Abelana
+zh: 分享
+fa: اشتراک گذاری
+rif: Carec
+ben: শেয়ার করুন
+
+$ Button_Start
+en: Start
+fr: Commencer
+es: Iniciar
+ms: Mula
+ru: Начать
+id: Mulai
+ar: بدء
+nl: Beginnen
+ta: தொடங்கு
+de: Start
+zu: Qala
+zh: 开始
+fa: شروع
+rif: Bḏa
+ben: শুরু করুন
+
+$ Button_Submit
+en: Submit
+fr: Soumettre
+tr: Gönder
+id: Kirim
+mal: സമർപ്പിക്കുക
+es: Aceptar
+pt: Enviar
+zh: 提交
+vi: Gửi
+fa: ارسال
+ru: Отправить
+de: Absenden
+az: Təqdim et
+ar: عرض
+hi: प्रस्तुत
+te: సమర్పించండి
+ko: 제출
+ms: Kemukakan
+nl: Verzenden
+ta: அமை
+zu: Sabumitha
+rif: Sekk
+zh-tw: 確認
+ben: জমা দিন
+
+$ Button_Sign_Up
+en: Sign Up
+fr: S'inscrire
+ms: Daftar
+es: Inscríbete
+ru: Зарегистрироваться
+id: Daftarkan
+ar: تسجيل حساب
+nl: Inschrijven
+ta: பதியவும்
+de: Anmeldung
+zu: Bhalisa
+zh: 注册
+fa: ثبت نام
+rif: Sejjel
+ben: নিবন্ধন করুন
+
+$ Button_Skip
+en: Skip
+fr: Sauter
+es: Omitir
+pt: Omitir
+ru: Пропустить
+id: Lewat
+ar: تخطي
+nl: Overslaan
+ta: தவிர்
+de: Überspringen
+zu: Eqa
+zh: 跳过
+fa: عبور
+rif: Nḍew
+ben: এড়িয়ে যান
+
+$ Button_Read
+en: Read
+fr: Lire
+es: Leer
+pt: Ler
+id: Baca
+ar: قراءة
+nl: Lezen
+ta: படிக்க
+ru: Читать
+de: Lesen Sie
+zu: Funda
+zh: 朗读
+fa: خواندن
+rif: Ɣer
+ben: পড়ুন
+
+$ Button_Listen
+en: Listen
+fr: Écouter
+es: Escuchar
+pt: Escutar
+id: Dengar
+ar: إستماع
+nl: Luisteren
+ta: கேட்க
+ru: Слушать
+de: Hören Sie
+zu: Lalela
+zh: 聆听
+fa: گوش دادن
+rif: Seȓ
+ben: শোন
+
+$ Button_Create_Image
+en: Create Image
+fr: Créer image
+es: Crear imagen
+pt: Criar imagem
+id: Membuat Gambar
+ar: إنشاء صورة
+nl: Afbeelding maken
+ta: வசனப்படம் செய்
+ru: Фотоцитата
+de: Bild erstellen
+zu: Enza Isithombe
+zh: 创建图片
+fa: ایجاد تصویر
+rif: Ssufeɣ-d tteṣwirṯ
+ben: ইমেজ তৈরি করুন
+
+$ Button_Audio_Play
+en: Play
+ar: تشغيل
+rif: Seƹyar
+
+$ Button_Audio_Pause
+en: Pause
+ar: إيقاف
+rif: Sbedd
+
+$ Button_Audio_Forward
+en: Forward
+ar: إلى الأمام
+rif: Ɣar zzaṯ
+
+$ Button_Audio_Back
+en: Back
+ar: إلى الخلف
+rif: Ɣar ḏeffar
+
+$ Button_Audio_Forward_Section
+en: Forward Section
+ar: تقديم للقسم أمامي
+rif: Raḥ ɣar zzaṯ
+
+$ Button_Audio_Back_Section
+en: Back Section
+ar: رجوع للقسم الخلفي
+rif: Ḏwer-d ɣar ḏeffar
+
+$ Date_Today
+en: Today
+fr: Aujourd'hui
+es: Hoy
+pt: Hoje
+fa: امروز
+ru: Сегодня
+de: Heute
+id: Hari ini
+az: Bugün
+ar: اليوم
+hi: आज
+te: ఈ రోజు
+ko: 오늘
+ms: Hantar
+nl: Vandaag
+ta: இன்று
+zu: Namuhla
+zh: 今日
+rif: Ass-a
+ben: আজ
+
+$ Date_Yesterday
+en: Yesterday
+fr: Hier
+es: Ayer
+pt: Ontem
+fa: دیروز
+ru: Вчера
+de: Gestern
+id: Kemarin
+az: Dünən
+ar: الأمس
+hi: कल
+te: నిన్నటి రోజు
+ko: 어제
+ms: Semalam
+nl: Gisteren
+ta: நேற்று
+zu: Izolo
+zh: 昨日
+rif: Iḍennaṭ
+ben: গতকাল
+
+$ Grandroid_Load_Fail
+en: Sorry, the text may not display correctly on this device.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur cet appareil.
+es: Lo siento, el texto no puede ser mostrado correctamente en este dispositivo.
+pt: Infelizmente o texto pode não ser exibido corretamente neste dispositivo.
+ru: Извините, на этом устройстве текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на цьому пристрої
+tr: Üzgünüz, metin bu cihazda doğru şekilde görüntülenmeyebilir.
+zh: 文本无法在此设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat ini.
+mal: ക്ഷമിക്കണം, അക്ഷരങ്ങള്‍ ഈ ഉപകരണത്തിൽ ശരിയായി ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị này.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventuell wird der Text auf diesem Gerät nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn bu cihazda düzgün görünmür.
+ar: عذرا،قد لا يتم عرض هذا النص بشكل صحيح في هذا الجهاز
+hi: क्षमा करें, यह इस साधन पर सही तरीके से प्रदर्शित नहीं होगा।
+te: క్షమించండి, ఈ పరికరంలో వాక్యం సరిగ్గా కనిపించకపోవచ్చు.
+ko: 죄송합니다. 이 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti ini.
+nl: Sorry, de tekst wordt wellicht niet goed weergegeven op dit apparaat.
+ta: மன்னிக்கவும், இந்த சாதனத்தில் வார்த்தைகள் சரியாக இயங்கவில்லை
+zu: Siyaxolisa, umbhalo kungenzeka ungabonakali kahle kule divayisi.
+rif: Lmusamaḥa, ṯira-ya imken war d teḍhurent ca nican ḏi ljihaz-a.
+zh-ch: 文本无法在此设备上正确地显示。
+zh-tw: 抱歉無法在此設備上正常顯示
+ben: দু:খিত, এই ডিভাইসে লেখাটি সঠিকভাবে প্রদর্শিত নাও হতে পারে
+
+$ Grandroid_Load_Fail_42_43_Intel
+en: Sorry, the text may not display correctly on Intel devices for Android 4.2 or 4.3.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur les appareils Intel pour Android 4.2 ou 4.3.
+es: Lo siento, el texto no puede ser mostrado correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Infelizmente o texto pode não ser exibido corretamente em dispositivos Intel para Android 4.2 ou 4.3.
+ru: Извините, на устройствах на базе Intel + Android 4.2 или 4.3 текст может отображаться некорректно
+uk: Вибачте, текст може відображатися некоректно на пристроях Intel під керуванням Android 4.2 або 4.3
+tr: Üzgünüz, metin Android 4.2 veya 4.3 için Intel cihazlarda doğru görüntülenmeyebilir.
+zh: 文本无法为安卓4.2或4.3的英特尔设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat dengan CPU Intel dan Android 4.2/4.3.
+mal: ക്ഷമിക്കണം, Android 4.2 അല്ലെങ്കിൽ 4.3 ഉള്ള ഇന്റൽ ഉപകരണങ്ങളിൽ അക്ഷരങ്ങള്‍ ശരിയായ രീതിയിൽ ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị Intel vì dùng Android 4.2 hoặc 4.3.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventuell wird der Text auf Intel Geräten mit Android 4.2 oder 4.3 nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn Android 4.2 və ya 4.3 üçün Intel cihazlarında düzgün görünmür.
+ar: عذراً، يحتمل عدم ضهور النص بشكل سليم. عذرا،قد لا يتم عرض هذا النص بشكل صحيح على أجهزة انتل   لأندرويد 4.2 و 4.3
+hi: क्षमा करें, यह इस एंड्राइड 4.2 या 4.3 के लिए इंटेल के साधन पर ठीक से प्रदर्शित नहीं हो सकता है
+ko: 죄송합니다. 안드로이드 4.2 혹은 4.3 버전을 지원하는 인텔 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti Intel untuk Android 4.2 atau 4.3.
+nl: Sorry, de tekst wordt wellicht niet goed weergegeven op Intel apparaten voor Android 4.2 of 4.3.
+ta: மன்னிக்கவும், இன்டெல் கொண்ட ஆண்ட்ராய்டு 4.2 (அ) 4.3 சாதனங்களில் வார்த்தைகள் சரியாக இயங்கவில்லை
+zu: Siyaxolisa, umbhalo kungenzeka ungabonakali kahle kumadivayisi e-Intel uma usebenzisa i-Android 4.2 noma i-4.3.
+rif: Lmusamaḥa, ṯira-ya imken war d teḍhurent ca nican ḏi ljihazaṯ n Intel ƹlaḥsab Android 4.2 niɣ 4.3.
+te: 
+zh-ch: 文本无法为安卓4.2或4.3的英特尔设备上正确地显示。
+zh-tw: 抱歉無法在安卓4.2或4.3的Intel設備上正常顯示
+ben: দু :খিত, টেক্সটটি ইন্টেল ডিভাইসে অ্যান্ড্রয়েড 4.2 বা 4.3 এর জন্য সঠিকভাবে প্রদর্শিত নাও হতে পারে।
+
+$ Grandroid_Load_Fail_42_43_Other
+en: Sorry, the text may not display correctly on this device for Android 4.2 or 4.3.
+fr: Désolé, le texte peut ne pas s'afficher correctement sur cet appareil pour Android 4.2 ou 4.3.
+es: Lo siento, el texto no puede ser mostrado correctamente en dispositivos Intel para Android 4.2 o 4.3.
+pt: Infelizmente o texto pode não ser exibido corretamente neste dispositivo para Android 4.2 ou 4.3.
+ru: Извините, текст может отображаться некорректно, если данное устройство работает под управлением ОС Android 4.2 или 4.3
+uk: Вибачте, текст може відображатися некоректно, якщо цей пристрій працює під керуванням ОС Android 4.2 або 4.3
+tr: Üzgünüz, metin bu cihazda Android 4.2 veya 4.3 için doğru şekilde görüntülenmeyebilir.
+zh: 文本无法为安卓4.2或4.3的设备上正确地显示。
+id: Maaf, mungkin teks tidak akan ditampilkan dengan benar pada alat Android 4.2/4.3 ini.
+mal: ക്ഷമിക്കണം, Android 4.2 അല്ലെങ്കിൽ 4.3 ഉള്ള ഉപകരണങ്ങളിൽ അക്ഷരങ്ങള്‍ ശരിയായ രീതിയിൽ ദൃശ്യമാകില്ലായിരിക്കാം.
+vi: Xin lỗi, bản văn có thể không hiển thị chính xác trên thiết bị này vì dùng Android 4.2 hoặc 4.3.
+fa: متاسفم، امکان دارد این برنامه در دستگاه شما به درستی اجرا نشود
+de: Verzeihung, eventull wird der Text auf diesem Gerät mit Android 4.2 oder 4.3 nicht korrekt angezeigt.
+az: Üzr istəyirik, mətn Android 4.2 və ya 4.3 üçün bu cihazda düzgün görünmür.
+ar: عذرا،قد لا يتم عرض هذا النص بشكل صحيح على هذا الجهاز  لأندرويد 4.2 و 4.3
+hi: क्षमा करें, इस साधन  पर एंड्रॉइड 4.2 या 4.3 के लिए ठीक से प्रदर्शित नहीं होगा।
+ko: 죄송합니다. 안드로이드 4.2 혹은 4.3 버전을 지원하는 기기에서는 본문이 정상적으로 보이지 않을 수 있습니다.
+ms: Maaf, mesej mungkin tidak dipaparkan dengan betul pada peranti ini untuk Android 4.2 atau 4.3.
+nl: Sorry, de tekst wordt wellicht niet goed weergegeven op dit apparaat voor Android 4.2 of 4.3.
+ta: மன்னிக்கவும், இந்த சாதனத்தில் உள்ள ஆண்ட்ராய்டு 4.2 (அ) 4.3 ல் வார்த்தைகள் சரியாக இயங்கவில்லை
+zu: Siyaxolisa, umbhalo kungenzeka ungabonakali kahle kule divayisi uma usebebenzisa i-Android 4.2 noma i-4.3.
+rif: Lmusamaḥa, ṯira-ya imken war d teḍhurent ca nican ḏi ljihaz-a ƹlaḥsab Android 4.2 niɣ 4.3.
+te: 
+zh-ch: 文本无法为安卓4.2或4.3的设备上正确地显示。
+zh-tw: 抱歉無法在安卓4.2或4.3的Intel設備上正常顯示
+ben: দু :খিত, টেক্সট এই ডিভাইসে অ্যান্ড্রয়েড 4.2 বা 4.3 এর জন্য সঠিকভাবে প্রদর্শিত নাও হতে পারে।
+
+$ Search
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: Поиск
+uk: Пошук
+tr: Ara
+id: Penelusuran
+zh: 搜索
+mal: തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: వెతకు
+ko: 검색
+ms: Carian
+nl: Zoeken
+ta: தேடு
+zu: Sesha
+rif: Arzu
+zh-ch: 搜索
+zh-tw: 搜尋
+ben: অনুসন্ধান করুন
+
+$ Search_Text_Hint
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: найти...
+uk: знайти...
+tr: Ara
+id: Penelusuran
+zh: 搜索
+mal: മലയാളത്തില്‍ ടൈപ്പ് ചെയ്യുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: పదాలను వెతకు
+ko: 검색
+ms: Carian
+nl: Zoeken
+ta: தேடு
+zu: Sesha
+rif: Arzu
+zh-ch: 搜索
+zh-tw: 搜尋
+ben: অনুসন্ধান করুন
+
+$ Search_Match_Whole_Words
+en: Match whole words
+fr: Mots entiers
+es: Palabras completas
+pt: Palavras Inteiras
+ru: Слова целиком
+uk: Цілі слова
+tr: Sözcukleri eşleştir
+id: Semua kata cocok
+zh: 全字匹配
+mal: മുഴുവൻ വാക്കുകള്‍ പൊരുത്തപ്പെടുക
+vi: Trùng khớp toàn bộ từ ngữ
+fa: تطبیق کل واژه
+de: Ganze Wörter
+az: Bütöv sözləri uyğunlaşdır
+ar: كلمات بالكامل
+hi: पूरे शब्दों से मिलान करें
+te: పూర్తి పదాలను వెతకు
+ko: 모든 단어 대조
+ms: Padan semua perkataan
+nl: Hele woorden
+ta: வாரத்தையை உள்ளதுபோல் தேடு
+zu: Fanisa amagama aphelele
+rif: Awaȓen iy d itasen ak wayawya
+zh-ch: 全字匹配
+zh-tw: 完全符合
+ben: পুরো শব্দের সাথে মিল
+
+$ Search_Match_Accents
+en: Match accents and tones
+fr: Accents et tons
+es: Acentos y tonos
+pt: Acentos e Tons
+ru: С учётом ударений и тонов
+uk: З урахуванням знаків наголосу й тонів
+tr: Vurguları ve tonları eşleştir
+id: Aksen dan bunyi cocok
+zh: 搜寻同音字
+mal: ഉച്ചാരണവും, ശബ്‌ദവും പൊരുത്തപ്പെടുക
+vi: Trùng khớp dấu
+fa: تطبیق آواها
+de: Akzente und Töne einbeziehen
+az: Vurğu və tonları uyğunlaşdır
+ar: اللهجة والسياق
+hi: भाषा और सुर को मिलाये
+ko: 억양과 어조 대조
+ms: Pandankan loghart dan nada
+nl: Inclusief accenten
+ta: உச்சரிப்பு மற்றும் தொனியை ஒப்பிடு
+zu: Fanisa izigqi zamazwi namaphimbo
+rif: Nneɣma ḏ ṣṣuṭ iy d itasen ag wayawya
+zh-ch: 搜寻同音字
+zh-tw: 搜尋同音字
+ben: উচ্চারণ এবং সুর মিলান
+
+$ Search_Searching
+en: Searching...
+fr: Recherche en cours...
+es: Buscando...
+pt: Pesquisando...
+ru: Идёт поиск...
+uk: Пошук триває...
+tr: Aranıyor...
+id: Penelusuran...
+zh: 正在搜索…
+mal: തിരയുന്നു...
+vi: Đang tìm kiếm...
+fa: جستجو...
+de: Suche läuft...
+az: Axtarış
+ar: بحث جاري
+hi: खोज रहा है.…
+te: వెతకడం జరుగుతుంది....
+ko: 검색중...
+ms: Mencari...
+nl: Bezig …
+ta: தேடுகின்றது...
+zu: Iyasesha...
+rif: Yarezzu...
+zh-ch: 正在搜索…
+zh-tw: 正在搜尋...
+ben: অনুসন্ধান করা হচ্ছে ...
+
+$ Search_Number_Found
+en: Found: %,d
+fr: Nombre : %,d
+es: Encontrados: %,d
+pt: Encontrado: %,d
+ru: Найдено: %,d
+uk: Знайдено: %,d
+tr: Bulundu: %,d
+id: Ditemukan: %,d
+zh: 找到
+mal: %,d ഇടങ്ങളില്‍ കണ്ടെത്തി
+vi: Đã tìm: %,d
+fa: %,d پیدا شد
+de: Gefunden: %,d
+az: Tapıldı: %,d
+ar: عدد
+hi: %,d मिला
+te: %,d దొరికినవి
+ko: 검색결과: %, d
+ms: Jumpa: %,d
+nl: Gevonden: %,d
+ta: கண்டுபிடித்தவைகள்: %,d
+zu: Itholakele: %,d
+rif: Yufa: %,d
+zh-ch: 找到
+zh-tw: 搜尋結果
+ben: পাওয়া গেছে: %, d
+
+$ Search_No_Matches_Found
+en: No matches found
+fr: Aucun résultat trouvé
+es: No se encontró ninguna coincidencia
+pt: Nenhum resultado encontrado
+ru: Ничего не найдено
+uk: Немає відповідників
+tr: Hiçbir sonuç bulunamadı
+id: Tidak ditemukan
+zh: 没有找到匹配
+mal: ഒന്നും കണ്ടെത്താന്‍ പറ്റിയില്ല
+vi: Không có sự trùng khớp nào được tìm thấy
+fa: پیدا نشد
+de: Keine Treffer gefunden
+az: Uyğun olan tapılmadı
+ar: لم يتم العثور على تطابقات
+hi: कोई मेल नहीं मिले
+te: పోలికలు దొరకలేదు
+ko: 찾을 수 없음
+ms: Tida pad anan
+nl: Geen resultaten gevonden
+ta: தேடப்பட்ட வார்த்தை கிடைக்கவில்லை
+zu: Akutholakalanga okufanayo
+rif: War yufi ca min d itasen ag wayawya
+zh-ch: 没有找到匹配
+zh-tw: 沒有符合的結果
+ben: কোনো মিল খুঁজে পাওয়া যায়নি
+
+$ Search_Again_Button
+en: Search
+fr: Recherche
+es: Búsqueda
+pt: Pesquisar
+ru: Искать
+uk: Шукати
+tr: Ara
+id: Telusur
+zh: 搜索
+mal: വീണ്ടും തിരയുക
+vi: Tìm kiếm
+fa: جستجو
+de: Suche
+az: Axtarış
+ar: بحث
+hi: खोज
+te: వెతకు
+ko: 검색
+ms: Carian
+nl: Zoeken
+ta: மீண்டும் தேட
+zu: Sesha
+rif: Arzu
+zh-ch: 搜索
+zh-tw: 搜尋
+ben: অনুসন্ধান করুন
+
+$ Search_Cancel_Button
+en: Cancel
+fr: Annuler
+es: Cancelar
+pt: Cancelar
+ru: Отменить
+uk: Скасувати
+tr: İptal etmek
+id: Batal
+zh: 取消
+mal: ക്യാന്‍സല്‍ ചെയ്യുക
+vi: Hủy
+fa: لغو
+de: Beenden
+az: Ləğv et
+ar: إلغاء
+hi: निरस्त करना
+te: రద్దు చెయ్యి
+ko: 취소
+ms: Batal
+nl: Annuleren
+ta: நீக்கு
+zu: Khansela
+rif: Kkes
+zh-ch: 取消
+zh-tw: 取消
+ben: বাতিল করুন
+
+$ Audio_Download_Title
+en: Audio Download
+fr: Téléchargement audio
+es: Descarga de audio
+pt: Download de áudio
+ru: Загрузка аудио
+uk: Завантаження аудіо
+tr: Ses İndir
+zh: 音频下载
+id: Unduh audio
+mal: ഓഡിയോ ഡൌണ്‍ലോഡ്
+vi: Tải tiếng
+fa: دانلود صوتی
+de: Audio-Download
+az: Audio yükləmə
+ar: تحميل الصوت
+hi: ऑडियो डाउनलोड
+te: ఆడియో డౌన్లోడ్
+ko: 오디오 파일 내려받기
+ms: Muat turun audio
+nl: Naam van geluidsbestand
+ta: ஒலிவடிவ வசன பதிவிறக்கம்
+zu: Ukudawuniloda Umsindo
+rif: Xemmeȓ awdyu
+zh-ch: 音频下载
+zh-tw: 語音檔下載
+ben: অডিও ডাউনলোড
+
+$ Audio_Download_Confirm
+en: Download audio file?
+fr: Télécharger fichier audio?
+es: ¿Descargar archivo de audio?
+pt: Baixar arquivo de áudio?
+ru: Загрузить аудио файл?
+uk: Завантажити аудіо файл?
+tr: Ses dosyasını indirmek istiyor musun?
+zh: 下载音频文件吗？
+id: Anda mau unduh file audio?
+mal: ഓഡിയോ ഫയൽ ഡൗൺലോഡു ചെയ്യണോ?
+vi: Tải file tiếng?
+fa: فایل صوتی را دانلود می کنید؟
+de: Audiodatei herunterladen?
+az: Audio faylı yükləmək?
+ar: تحميل الملف الصوتي
+hi: ऑडियो पंक्ति डाउनलोड
+te: ఆడియో ఫైల్ డౌన్లోడ్ చేయాలా?
+ko: 오디오 파일을 내려 받으시겠습니까?
+ms: Muat turun fail audio
+nl: Geluidsbestand downloaden?
+ta: ஒலிவடிவ வசனத்தை பதிவிறக்கம் செய்ய வேண்டுமா?
+zu: Ufuna ukudawuniloda ifayela?
+rif: Ma ṯexseḏ aḏ txemmȓeḏ fiča n uwdyu?
+zh-ch: 下载音频文件吗？
+zh-tw: 確認下載嗎？
+ben: অডিও ফাইল ডাউনলোড করবেন?
+
+$ Audio_Download_Auto
+en: Download automatically from now on
+fr: Télécharger automatiquement à partir de maintenant
+es: Siempre descargar audio automáticamente
+pt: Baixar automaticamente a partir de agora
+ru: В дальнейшем загружать автоматически
+uk: Надалі завантажувати автоматично
+tr: Bundan sonra otomatik olarak indir
+zh: 后来自动下载
+id: Selalu unduh secara otomatis
+mal: ഇനി മുതല്‍ ചോദിക്കാതെ ഡൌണ്‍ലോഡ് ചെയ്യുക
+vi: Tải tự động kể từ lúc này
+fa: از این به بعد دانلود صوتی بصورت اتوماتیک وار انجام شود
+de: Ab jetzt automatisch herunterladen
+az: İndi avtomatik olaraq yüklə
+ar: التحميل بصورة الية منذ الأن
+hi: स्वचालित रूप से अब से डाउनलोड करें
+te: ఇప్పటి నుండి ఆటోమేటిక్గా డౌన్లోడ్
+ko: 지금부터 자동으로 내려 받습니다.
+ms: Muat turun secara automatik dari sekarang
+nl: Automatisch downloaden vanaf nu
+ta: இனி தானாகவே பதிவிறக்கம் செய்துகொள்
+zu: Kusukela manje uzodawuniloda ngokuzenzekelayo
+rif: Ssa aȓ ṯsawent xemmeȓ awdyu uṭumatik
+zh-ch: 后来自动下载
+zh-tw: 將來自動下載
+ben: এখন থেকে স্বয়ংক্রিয়ভাবে ডাউনলোড করুন
+
+$ Audio_Download_Connect
+en: To download audio files, please connect to the internet.
+fr: Pour télécharger les fichiers audio, veuillez vous connecter à l'internet
+es: Para descargar archivos de audio, favor  conectarse a internet
+pt: Para baixar arquivos de áudio, conecte-se à Internet.
+ru: Для загрузки аудио файлов, пожалуйста, подключитесь к интернету
+uk: Щоб завантажити аудіо файли, будь ласка, під'єднайтеся до інтернету
+tr: Ses dosyalarını indirmek için, lütfen internete bağlanın.
+zh: 下载的音频文件，请连接到互联网。
+id: Untuk mengunduh audio, harus konek ke internet
+mal: ഓഡിയോ ഡൌണ്‍ലോഡ് ചെയ്യാന്‍ ഇന്റര്‍നെറ്റ്‌ ആവശ്യമാണ്‌
+vi: Để tải file tiếng, vui lòng kết nối mạng.
+fa: برای دانلود فایل های صوتی، لطفا به اینترنت متصل شوید.
+de: Um die Audiodateien herunterzuladen, bitte mit dem Internet verbinden.
+az: Audio faylları yükləmək üçün İnternetə qoşul.
+ar: لتحميل الملفات الصوتية، الرجاء الإتصال بلأنترنت.
+hi: ऑडियो फ़ाइलों को डाउनलोड करने के लिए, कृपया इंटरनेट से कनेक्ट करें
+te: ఆడియో ఫైల్లను డౌన్లోడ్ చేయడానికి, దయచేసి ఇంటర్నెట్కు కనెక్ట్ చేయండి.
+ko: 오디오 파일을 내려 받으려면, 인터넷에 접속하세요.
+nl: Internet nodig voor downloaden
+ta: ஒலிவடிவ வசனத்தைப் பதிவிறக்கம் செய்வதற்கு இணையத் தொடர்பு வேண்டும்
+zu: Xhuma ku-inthanethi uma ufuna ukudawuniloda amafayela.
+rif: Ƹaffak, ḥima aḏ txemmȓeḏ fičaṯ n uwdyu, egg kuniksyun ḏi lanternet.
+zh-ch: 下载的音频文件，请连接到互联网。
+zh-tw: 請連接到網路以下載語音檔
+ben: অডিও ফাইল ডাউনলোড করতে, দয়া করে ইন্টারনেটের সাথে সংযোগ করুন।
+
+$ Audio_Download_Error
+en: Download Error:
+fr: Erreur de téléchargement :
+es: Error de descarga:
+pt: Erro de download:
+ru: Ошибка загрузки
+uk: Помилка завантаження
+tr: İndirme hatası:
+zh: 下载错误：
+id: Error mengunduh:
+mal: ഡൌണ്‍ലോഡ് ശരിയായില്ല:
+vi: Lỗi tải:
+fa: خطا در دانلود
+de: Fehler beim Herunterladen:
+az: Yükləmə səhvi
+ar: خطأ في التنزيل
+hi: डाउनलोड त्रुटि
+te: డౌన్లోడ్ లోపం
+ko: 내려받기 오류
+nl: Download fout:
+ta: பதிவிறக்க பழுது:
+zu: Iphutha Lokudawuniloda:
+rif: Lxaṭaʼ ḏi tteḥmil
+zh-ch: 下载错误：
+zh-tw: 下載錯誤：
+ben: ডাউনলোড ত্রুটি:
+
+$ Audio_Download_Timeout
+en: Timed out connecting to audio server.
+fr: Délai de connexion au serveur audio.
+id: Telah lewat waktu, koneksi lambat.
+ar: مهلة التوصيل لسيرفر الصوت أنتهت
+nl: Onderbreking
+ta: இணையத் தொடர்பு சரியாக இயங்கவில்லை.
+ru: Время соединения с аудиосервером истекло
+de: Die Verbindung zum Audioserver wurde unterbrochen.
+zu: Iphelelwe yisikhathi ngenkathi ixhuma kuseva yomsindo.
+zh: 连接音频服务器超时。
+fa: اتمام زمان اتصال به سرور صدا
+rif: Ṯaƹḏu ȓweqṯ ak lmuḥerrik n lbaḥt n uwdyu.
+ben: অডিও সার্ভারে সংযোগের সময় শেষ হয়েছে
+
+$ Audio_Downloading
+en: Downloading %book %chapter...
+fr: Téléchargement de %book %chapter...
+es: Descargando %book %chapter...
+pt: Carregando %book %chapter...
+ru: Загружается %book %chapter...
+uk: Завантажується %book %chapter...
+tr: %book %chapter indiriliyor...
+zh: 正在下载％书％章…
+id: Sedang mengunduh %book %chapter...
+mal: %book %chapter ഡൌണ്‍ലോഡ് ചെയ്തു കൊണ്ടിരിക്കുന്നു...
+vi: Đang tải %book %chapter...
+fa: در حال دانلود
+de: Heruntergeladen %book %chapter
+az: Kitab fəslinin yüklənməsi...
+ar: تحميل %book%chapter
+hi: %book %chapter डाउनलोड कर रहा है ..
+te: %పుస్తకం %అధ్యాయము డౌన్లోడ్ చేస్తోంది ...
+ko: % %장 내려받는 중...
+ms: Muat turun %book %chapter...
+nl: Downloaden %book %chapter...
+ta: %book %chapter பதிவிறக்கம் ஆகிக்கொண்டிருக்கிறது...
+zu: Dawuniloda %book %chapter...
+rif: Ixemmeȓ-d %book %chapter...
+zh-ch: 正在下载％书％章…
+zh-tw: 正在下載 %book %chapter…
+ben: %বই %অধ্যায় ডাউনলোড হচ্ছে
+
+$ Audio_Check_Connection
+en: Please check your internet connection.
+fr: Veuillez vérifier votre connexion internet
+es: Por favor revise su conexión a Internet
+pt: Verifique a sua conexão com a Internet.
+ru: Пожалуйста, проверьте интернет-соединение
+uk: Будь ласка, перевірте інтернет з'єднання
+tr: Lütfen internet bağlantınızı kontrol edin.
+zh: 请检查您的网络连接。
+id: Harap memeriksa koneksi internet.
+mal: ദയവായി നിങ്ങളുടെ ഇന്റര്‍നെറ്റ്‌  കണക്ഷന്‍ ചെക്ക്‌ ചെയ്യുക
+vi: Vui lòng kiểm tra kết nối mạng.
+fa: لطفا اتصال اینترنت را برسی کنید
+de: Bitte überprüfen Sie Ihre Internetverbindung.
+az: İnternet bağlantınızı yoxlayın
+ar: الرجاء التحقق من اتصالك بالإنترنت
+hi: कृपया अपने इंटरनेट कनेक्शन की जाँच करें।
+te: దయచేసి మీ ఇంటర్నెట్ కనెక్షన్ తనిఖీ చేయండి.
+ko: 인터넷 연결을 확인하십시오.
+ms: Sila semak sambungan internet anda
+nl: Controleer uw internetverbinding
+ta: உங்களது இணையத்தொடர்பை சரிபார்க்கவும்.
+zu: Hlola uxhumano lwe-inthanethi yakho.
+rif: Ƹaffak, ḥeqqeq rreyẓun nnec ḏi lanternet.
+zh-ch: 请检查您的网络连接。
+zh-tw: 請檢查您的網路連線
+ben: আপনার ইন্টারনেট সংযোগ চেক করুন।
+
+$ Audio_File_Not_Found
+en: Audio file not found
+fr: Fichier audio introuvable
+es: Archivo no encontrado
+pt: Arquivo de áudio não encontrado
+ru: Аудио файл не найден
+uk: Аудіо файл не знайдено
+tr: Ses dosyası bulunamadı
+zh: 找不到音频文件
+id: Audio tidak ditemukan
+mal: ഓഡിയോ ഫയല്‍ കണ്ടെത്തിയില്ല
+vi: File tiếng không được tìm thấy.
+fa: فایل صوتی یافت نشد
+de: Audiodatei wurde nicht gefunden.
+az: Audio fayl tapılmadı
+ar: الملف الصوتي غير موجود
+hi: ऑडियो फ़ाइल नहीं मिली
+te: ఆడియో ఫైల్ దొరకలేదు
+ko: 오디오 파일 찾을 수 없음
+ms: Fail audio tidak dijumpai
+nl: Geluidsbestand niet gevonden
+ta: ஒலிவடிவ வசனம் கிடைக்கவில்லை
+zu: Ifayela lomsindo alitholakali
+rif: War yufi ca fiča-ya n uwdyu.
+zh-ch: 找不到音频文件
+zh-tw: 找不到語音檔
+ben: অডিও ফাইল পাওয়া যায়নি
+
+$ Audio_Fail_DBT_Location
+en: Failed to get audio download information
+fr: Informations de téléchargement introuvables
+es: No se encontró información sobre la descarga
+pt: Falha ao obter informações para baixar o áudio
+ru: Не удалось найти информацию для загрузки аудио
+uk: Не вдалося отримати інформацію для завантаження аудіо
+tr: Sesli indirme bilgisi alınamadı.
+zh: 未能获得音频下载信息
+id: Tidak bisa memperoleh info tentang audio
+mal: ഓഡിയോ ഡൗൺലോഡ് വിവരം നേടുന്നതിൽ പരാജയപ്പെട്ടു
+vi: Không nhận được thông tin tải tiếng.
+fa: دریافت اطلاعات دانلود صوتی موفق نشد
+de: Fehler beim Abruf der Audio-Download Information
+az: Audio yükləmə məlumatı əldə edilmədi
+ar: عدم العثور على المعلومات المتعلقة بالتحميل
+hi: ऑडियो डाउनलोड जानकारी प्राप्त करने में विफल
+te: ఆడియో డౌన్లోడ్ సమాచారాన్ని పొందడంలో విఫలం
+ko: 오디오 파일 내려받기 정보 습득 실패
+nl: Geluidsbestandinformatie onvindbaar
+ta: பதிவிறக்க விவரம் பெற இயலவில்லை
+zu: Hlulekile ukuthola ulwazi ngomsindo odawunilodwayo
+rif: War yufi bu lmaƹlumaṯ x tteḥmil-a n uwdyu
+zh-ch: 未能获得音频下载信息
+zh-tw: 找不到語音檔下載資訊
+ben: অডিও ডাউনলোডের তথ্য পেতে ব্যর্থ
+
+$ Audio_Fail_DBT_Permission
+en: Not allowed to download audio
+rif: Memnuƹ aḏ ixemmeȓ awdyu
+
+$ Audio_Looking_For_File
+en: Looking for audio file on your device...
+fr: Recherche du fichier audio sur votre appareil...
+hi: अपने डिवाइस पर ऑडियो फ़ाइल खोज रहा है...
+te: మీ పరికరంలో ఆడియో ఫైల్ కోసం వెతుకుతోంది ..
+de: Audiodatei wird auf ihrem Gerät gesucht...
+fa: جستجوی فایل صوتی در دستگاه خود...
+ko: 기기에서 오디오 파일 찾는 중...
+ms: Mencari fail audio pada peranti anda...
+es: Buscando el archivo de audio en su dispositivo...
+ru: Поиск аудиофайла на вашем устройстве
+id: Sedang mencari file audio di perangkat ini...
+ar: البحث عن ملف الصوت في جهازك
+nl: Bezig met zoeken  …
+ta: உங்கள் சாதனத்தில் ஒலிவடிவ வசனம் தேடப்படுகிறது...
+zu: Cinga ifayela lomsindo edivayisini yakho...
+zh: 在你的设备上搜索音频...
+rif: Yarezzu x fiča-ya ḏi ljihaz nnec...
+ben: আপনার ডিভাইসে অডিও ফাইল খুঁজছেন ..
+
+$ Audio_Creating_Audio
+en: Creating audio file...
+fr: Créer fichier audio...
+es: Creando un archivo de audio...
+ru: Создание аудиофайла…
+id: Sedang membuat file audio...
+ar: إنشاء ملف صوتي
+nl: Geluidsbestand wordt gemaakt ...
+ta: ஒலிவடிவ வசனம் உருவாக்கப்படுகின்றது...
+de: Audiodatei erstellen…
+zu: Yakha ifayela lomsindo...
+zh: 创建音频文件...
+fa: ایجاد فایل صوتی
+rif: Issufuɣ-d fiča n uwdyu...
+ben: অডিও ফাইল তৈরি করা হচ্ছে ...
+
+$ Audio_Repeat_Off_Continue
+en: Play to next page
+fr: Aller à la page suivante
+zu: Dlala, uqhubekele ekhasini elilandelayo
+zh: 播放至下一页
+fa: پخش به صفحه بعدی
+ar: متابعة تشغيل الصوت إلى الصفحة التالية
+rif: Seƹyar ḥetta aȓ ṯewriqṯ iy d ɣa yasen
+
+$ Audio_Repeat_Off_Stop
+en: Stop at end of page
+fr: Arrêter en fin de page
+zu: Misa ekupheleni kwekhasi
+zh: 在页末停止
+fa: توقف در انتهای صفحه
+ar: إيقاف تشغيل الصوت عند نهاية الصفحة
+rif: Bedd aȓ uneggaru n ṯewriqṯ-a
+
+$ Audio_Repeat_Page
+en: Repeat page
+fr: Répéter la page
+zu: Phinda ikhasi
+zh: 重播本页
+fa: تکرار صفحه
+ar: إعادة تشغيل الصوت على الصفحة
+rif: Seƹyar ƹaweḏ ṯawriqṯ-a
+
+$ Audio_Repeat_Selection
+en: Repeat selection
+fr: Répéter la sélection
+zu: Phinda okukhethile
+zh: 重播选段
+fa: تکرار انتخاب
+ar: إعادة تشغيل المقطع الصوتي المحدد
+rif: Seƹyar ƹaweḏ ṯira nni ig itwaxḍaren
+
+$ Video_Download_Title
+en: Video Download
+fr: Téléchargement vidéo
+hi: वीडियो डाउनलोड करें
+te: వీడియో డౌన్లోడ్
+de: Videodownload
+fa: دانلود ویدیو
+ko: 영상 내려받기
+ms: Muat turun video
+es: Descarga de video
+ru: Загрузка видео
+id: Mengunduh Video
+ar: تنزيل الفيديو
+nl: Naam van video
+ta: வசனக் காணொளி பதிவிறக்கம்
+zu: Dawuniloda ividiyo
+zh: 视频下载
+rif: Tteḥmil n vidyu
+ben: ভিডিও ডাউনলোড
+
+$ Video_Download_Confirm
+en: Download video file?
+fr: Télécharger fichier vidéo ?
+hi: वीडियो फ़ाइल डाउनलोड करें?
+te: వీడియో ఫైల్ డౌన్లోడ్ చేయాలా?
+de: Videodatei herunterladen?
+fa: آیا تمایل به دانلود ویدئو دارید؟
+ko: 영상을 내려 받으시겠습니까?
+ms: Muat turun fail Video?
+es: ¿Descargar el archivo de vídeo?
+ru: Загрузить видео?
+id: Mau mengunduh video?
+ar: تنزيل ملف الفيديو؟
+nl: Video downloaden?
+ta: வசனக் காணொளியை பதிவிறக்க வேண்டுமா?
+zu: Ufuna ukudawuniloda ifayela levidiyo?
+zh: 下载视频文件？
+Ar: تنزيل ملف الفيديو؟
+rif: Ma ṯexseḏ aḏ txemmȓeḏ fiča n vidyu?
+ben: ভিডিও ফাইল ডাউনলোড করবেন?
+
+$ Video_Downloading
+en: Downloading video...
+fr: Téléchargement de la vidéo...
+hi: वीडियो डाउनलोड हो रहा है...
+te: వీడియో డౌవున్ లోడ్ అవుతుంది...
+de: Videodatei wird heruntergeladen...
+fa: در حال دریافت ویدیو
+ko: 영상 내려 받는 중...
+ms: Muat turun video
+es: Descargando el video...
+ru: Видео загружается…
+id: Sedang mengunduh video...
+ar: جاري تنزيل الفيديو
+nl: Video wordt gedownload …
+ta: வசனக் காணொளி பதிவிறக்கமாகின்றது...
+zu: Dawuniloda ividiyo...
+zh: 下载视频…
+rif: Ixemmeȓ-d vidyu...
+ben: ভিডিও ডাউনলোড হচ্ছে ..
+
+$ Video_Downloaded
+en: Video downloaded
+fr: Vidéo téléchargée
+hi: वीडियो डाउनलोड किया गया है
+te: వీడియో డౌన్లోడ్ చేయబడింది
+de: Video wurde heruntergeladen.
+fa: ویدئو دانلود شد
+ko: 영상 내려받기 완료
+ms: Video yang dimuat turun
+es: Video descargado
+ru: Видео загружено
+id: Video telah diunduh
+ar: تم تنزيل الفيديو
+nl: Video is gedownload
+ta: வசனக் காணொளி பதிவிறக்கம் ஆகிவிட்டது
+zu: Ividiyo idawunilodile
+zh: 视频已下载
+rif: Ṣafi vidyu ixemmeȓ
+ben: ভিডিও ডাউনলোড করা হয়েছে
+
+$ Video_Looking_For_File
+en: Looking for video file on your device...
+fr: Recherche du fichier vidéo sur votre appareil...
+hi: वीडियो फ़ाइल के लिए अपने डिवाइस को खोज रहा है...
+te: మీ పరికరంలో వీడియో ఫైల్ కోసం వెతుకుతోంది ...
+de: Videodatei wird auf ihrem Gerät gesucht...
+fa: جستجوی فایل تصویری در دستگاه خود...
+ko: 기기에서 영상 파일을 찾는 중...
+ms: Mencari fail video pada peranti anda...
+es: Buscando el archivo de video en su dispositivo...
+ru: Поиск видео на вашем устройстве…
+id: Sedang mencari file video di perangkat ini...
+ar: البحث عن ملف الفيديو على جهازك
+nl: Bezig met zoeken …
+ta: உங்கள் சாதனத்தில் காணொளி தேடப்படுகின்றது...
+zu: Funa ifayela levidiyo edivayisini yakho…
+zh: 在你的设备上搜索视频文件...
+rif: Yarezzu x fiča-ya n vidyu ḏi ljihaz nnec...
+ben: আপনার ডিভাইসে ভিডিও ফাইল খুঁজছেন ...
+
+$ Video_Creating_Video
+en: Creating video...
+fr: Créer vidéo...
+es: Creando el video...
+ru: Создание видео…
+id: Sedang membuat video...
+ar: إنشاء فيديو
+nl: Video wordt gemaakt ...
+ta: வசனக் காணொளி உருவாக்கப்படுகின்றது...
+de: Video erstellen...
+zu: Yakha ividiyo...
+zh: 创建视频...
+fa: ساخت ویدیو
+rif: Issufuɣ-d fiča n vidyu...
+ben: ভিডিও তৈরি হচ্ছে ...
+
+$ Video_File_Not_Found
+en: Video file not found
+fr: Fichier vidéo introuvable
+es: Archivo de video no encontrado
+pt: Arquivo de vídeo não encontrado
+ru: Видеофайл не найден
+zu: Ifayela levidiyo alitholakali
+zh: 未找到视频文件
+fa: فایل ویدیو یافت نشد
+rif: War yufi ca fiča-ya n vidyu
+
+$ App_Downloading_App
+en: Downloading App...
+fr: Téléchargement de l'application...
+ru: Приложение загружается…
+de: App herunterladen…
+ar: جاري تنزيل التطبيق
+zu: Dawuniloda i-App…
+zh: 应用下载中...
+fa: برنامه در حال بارگیری است...
+rif: Ixemmeȓ-d tteṭbiq...
+ben: অ্যাপ ডাউনলোড হচ্ছে ...
+
+$ App_File_Error
+en: Error processing downloaded app
+fr: Erreur de traitement de l'application téléchargée
+ru: При установке загруженного приложения произошла ошибка
+de: Fehler beim Verarbeiten der heruntergeladenen App
+ar: خطأ في تشغيل التطبيق الذي تم تنزيله
+zu: Kunephutha ngokuqhubeka ne-app edawunilodiwe
+zh: 下载应用出错
+fa: خطا در پردازش برنامه بارگیر شده
+rif: Lxaṭa' wami iḥeqqeq tteḥmil n tteṭbiq
+ben: .ডাউনলোড করা অ্যাপ প্রসেস করার সময় ত্রুটি
+
+$ Selector_Book
+en: BOOK
+fr: LIVRE
+es: LIBRO
+pt: LIVRO
+de: BUCH
+id: KITAB
+az: Kitab
+hi: पुस्तक
+te: పుస్తకం
+fa: کتاب
+ko: 권
+ru: КНИГА
+ar: كتاب
+nl: BOEK
+ta: புத்தகம்
+zu: INCWADI
+zh: 书卷
+rif: LKITAB
+ben: বই
+
+$ Selector_Chapter
+en: CHAPTER
+fr: CHAPITRE
+es: CAPÍTULO
+tr: BÖLÜM
+id: PASAL
+mal: അധ്യായം
+pt: CAPÍTULO
+zh: 章
+vi: CHƯƠNG
+fa: باب
+ru: ГЛАВА
+de: KAPITEL
+az: Fəsil
+ar: فصل
+hi: अध्याय
+te: అధ్యాయం
+ko: 장
+nl: HOOFDSTUK
+ta: அதிகாரம்
+zu: ISAHLUKO
+rif: UḎEM
+zh-tw: 章
+ben: অধ্যায়
+
+$ Selector_Verse
+en: VERSE
+fr: VERSET
+es: VERSÍCULO
+tr: AYET
+id: AYAT
+mal: വാക്യം
+pt: VERSÍCULO
+zh: 节
+vi: CÂU
+fa: آیه
+ru: СТИХ
+de: VERS
+az: Ayə
+ar: الآية
+hi: वचन
+te: వచనం
+ko: 절
+nl: VERS
+ta: வசனம்
+zu: IVESI
+rif: L'AYA
+zh-tw: 節
+ben: অ্যাপ ইনস্টলার ফাইল শেয়ার করুন
+
+$ Share_Apk_File
+en: Share App Installer File
+fr: Partager fichier d'installation de l'appli
+es: Compartir archivo del instalador de aplicacion
+pt: Compartilhar arquivo de instalação do aplicativo
+tr: Uygulama Yükleyici Dosyasını Paylaş
+id: Bagikan file aplikasi (APK)
+mal: ആപ്പ് ഇൻസ്റ്റാളർ ഫയൽ ഷെയര്‍ ചെയ്യുക
+zh: 共享应用程序安装文件
+vi: Chia sẻ file cài đặt App
+fa: اشتراک گذاری فایل نصب برنامه
+ru: Поделиться установочным файлом приложения (.apk)
+de: App-Datei weitergeben
+az: Tətbiq Yükləmə Faylını paylaş
+ar: مشاركة ملف التنصيب
+hi: स्थापनाकर्ता पंक्ति के ऐप को साझा करे
+te: ఆప్ ఇన్స్‌స్టాలర్‌ని షేర్ చేయండి
+ko: 앱 설치 파일 공유하기
+nl: Delen van installatiebestand van app
+ta: செயலியை பகிர்
+zu: Abelana ngeFayela le-App Installer
+rif: Carec fiča ḥima aḏ twaxemmeȓ tteṭbiq
+zh-tw: 分享App安裝檔
+ben: অ্যাপ ইনস্টলার ফাইল শেয়ার করুন
+
+$ Share_Apk_File_Via
+en: Share App via
+fr: Partager application par
+tr: Üzerinden uygulama paylaşın
+id: Bagi app ini lewat link
+mal: എ.പി.കെ ഫയൽ ഷെയര്‍ ചെയ്യുക
+es: es: Compartir a través de
+pt: Compartilhar Aplicativo via
+zh: 共享应用程通过
+vi: Chia sẻ App qua
+fa: اشتراک گذاری از طریق
+ru: Поделиться приложением через
+de: App weitergeben mit
+az: Tətbiq vasitəsilə paylaş
+ar: مشاركة التطبيق عن طريق
+hi: एप्लिकेशन के माध्यम से साझा करें
+te: ఆప్ ద్వారా షేర్ చేయండి
+ko: 앱 공유
+nl: Delen van app via
+ta: செயலியைப் பகிரும் வழி
+zu: Sebenzisa ukwabelana nge-App
+rif: Carec tteṭbiq s
+zh-tw: 以其他方式分享App
+ben: এর মাধ্যমে অ্যাপ শেয়ার করুন
+
+$ Share_App_Link
+en: Share Link to App on Google Play
+fr: Partager lien à l'appli sur Google Play
+es: Compartir enlace de la aplicación en Google Play
+pt: Compartilhar link para o aplicativo no Google Play
+tr: Google Play'de Uygulamaya Bağlantı Paylaşın
+id: Membagi link ke app ini di Google Play Store
+mal: ഗൂഗിൾ പ്ലേയിലെ ആപ്പ് ലിങ്ക് ഷെയര്‍ ചെയ്യുക
+vi: Chia sẻ đường dẫn đến App trên Google Play
+fa: پیوند به برنامه را در Google play به اشتراک بگذارید
+ru: Поделиться ссылкой на приложение в Google Play
+de: Den Link der App zu Google Play weitergeben
+az: Google Play-də tətbiqə keçmək üçün linki paylaş
+ar: مشاركة رابط التطبيق على جوجل بلاي
+hi: गूगल प्ले के ऐप के  लिंक को साझा करें
+te: గూగుల్ ప్లేలో షార్ లింక్ భాగస్వామ్యం
+ko: 구글 플레이에서 앱 링크 공유하기
+nl: Delen van link naar de app in Google Play
+ta: கூகுள் இணைப்பு வழியே செயலியை பகிர்
+zu: Abelana ngeLinki ye-App kuGoogle Play
+zh: 将链接分享至Google Play
+rif: Carec rrabiṭ ak tteṭbiq ḏi Google Play
+zh-tw: 分享App連結
+ben: গুগল প্লেতে অ্যাপের লিংক শেয়ার করুন
+
+$ Share_App_Link_Recommend
+en: I can recommend this app:
+fr: Je peux recommander cette application :
+tr: Bu uygulamayı tavsiye edebilirim:
+id: Saya merekomendasikan app ini:
+mal: എനിക്ക് ഈ ആപ്പ് ശുപാർശ ചെയ്യാൻ കഴിയും
+es: Puedo recomendar esta aplicación
+pt: Eu posso recomendar este aplicativo:
+zh: 我可以推荐这个应用程序：
+vi: Tôi có thể giới thiệu app:
+fa: من می توانم این برنامه را توصیه کنم:
+ru: Я бы порекомендовал это приложение:
+de: Ich kann diese App empfehlen:
+az: Bu tətbiqi tövsiyə edə bilərəm:
+ar: يمكنني التوصية  بهذا التطبيق
+hi: मै इस ऐप की अनुशंसा करता हूँ
+te: నేను ఈ ఆప్‌ని సిఫార్సు చేయవచ్చ:
+ko: 이 앱을 추천합니다:
+nl: Ik kan deze app aanbevelen:
+ta: இந்த செயலியை நான் பரிந்துரை செய்கிறேன்:
+zu: Ngingayincoma le-app:
+rif: Zemmareɣ axas sweṣṣiɣ x tteṭbiq-a:
+zh-tw: 推薦此App
+ben: আমি এই অ্যাপটি সুপারিশ করতে পারি:
+
+$ Share_App_Link_Via
+en: Share Link via
+fr: Partager lien par
+tr: Üzerinden uygulama paylaşın
+id: Membagi link lewat
+mal: ലിങ്ക് ഷെയര്‍ ചെയ്യുക
+es: Compartir enlace a través de
+pt: Compartilhar Hiperlink via
+zh: 共享链路通过：
+vi: Chia sẻ đường dẫn qua
+fa: اشتراک گذاری پیوند از طریق
+ru: Поделиться ссылкой через
+de: Den Link weitergeben mit
+az: Bağlantıyı paylaşın
+ar: مشاركة الرابط من خلال
+hi: लिंक के माध्यम से साझा करें
+te: లింక్ ద్వారా షేర్ చేయండి
+ko: 링크를 통해 공유하기
+nl: Delen van link via
+ta: செயலியின் இணைப்பை பகிரும் வழி
+zu: Sebenzisa ukwabelana ngeLinki
+rif: Carec rrabiṭ s
+zh-tw: 以其他方式分享App連結
+ben: মাধ্যমে লিঙ্ক শেয়ার করুন
+
+$ Share_Via
+en: Share via
+fr: Partager par
+tr: Üzerinden paylaş
+id: Berbagi oleh
+mal: ഷെയര്‍ ചെയ്യുക
+es: Compartir a través de
+pt: Compartilhar via
+zh: 共享通过：
+vi: Chia sẻ qua
+fa: اشتراک گذاری از طریق
+ru: Поделиться через
+de: Weitergeben mit
+az: Paylaşın
+ar: مشاركة عبر
+hi: के माध्यम से बाँटे
+te: దీని ద్వారా షేర్ చేయండి
+ko: 공유
+nl: Delen via
+ta: பகிரும் வழி
+zu: Abelana
+rif: Carec s
+zh-tw: 以其他方式分享
+ben: মাধ্যমে শেয়ার করুন
+
+$ Share_Text
+en: Share Text
+fr: Partager texte
+es: Compartir texto
+ru: Поделиться текстом
+id: Bagikan Teks
+ar: مشاركة النص
+nl: Tekst delen
+ta: வசனத்தை பகிர்
+de: Text teilen
+zu: Abelana ngombhalo
+zh: 分享经文
+fa: خطا در پردازش برنامه بارگیر شده
+rif: Carec ṯira
+ben: টেক্সট শেয়ার করুন
+
+$ Share_Audio
+en: Share Audio
+fr: Partager audio
+es: Compartir Audio
+ru: Поделиться аудио
+id: Bagikan Audio
+ar: مشاركة الصوت
+nl: Audio delen
+ta: ஒலிவடிவ வசனத்தை பகிர்
+de: Audio teilen
+zu: Abelana ngomsindo
+zh: 分享音频
+fa: اشتراک گذاری صوتی
+rif: Carec awdyu
+ben: অডিও শেয়ার করুন
+
+$ Share_Image
+en: Share Image
+fr: Partager image
+es: Compartir imagen
+ru: Поделиться изображением
+id: Bagikan Gambar
+ar: مشاركة الصورة
+nl: Afbeelding delen
+ta: வசனப் படத்தை பகிர்
+de: Bild teilen
+zu: Abelana ngesithombe
+zh: 分享图片
+fa: اشتراک گذاری تصویر
+rif: Carec tteṣwirṯ
+ben: ছবি শেয়ার করুন
+
+$ Share_Video
+en: Share Video
+fr: Partager vidéo
+es: Compartir Video
+ru: Поделиться видео
+id: Bagikan Video
+ar: مشاركة الفيديو
+nl: Video delen
+ta: வசனக் காணொளியை பகிர்
+de: Video teilen
+zu: Abelana ngevidiyo
+zh: 分享视频
+fa: اشتراک گذاری ویدیو
+rif: Carec vidyu
+ben: ভিডিও ভাগ করুন
+
+$ Settings_Title
+en: Settings
+fr: Paramètres
+es: Configuración
+pt: Configurações
+tr: Ayarlar
+id: Pengaturan
+mal: ക്രമീകരണങ്ങൾ
+zh: 设置
+vi: Cài đặt
+fa: تنظیمات
+ru: Настройки
+de: Einstellungen
+az: Parametrlər
+ar: إعدادات
+hi: सेटिंग्स
+te: సెట్టింగులు
+ko: 설정
+ms: Tetapan
+nl: Instellingen
+ta: செயலி அமைப்புகள்
+zu: Amasethingi
+rif: Rriglaj
+zh-tw: 設定
+ben: সেটিংস
+
+$ Settings_Category_Text_Display
+en: Text Display
+fr: Affichage du texte
+tr: Metin görüntüleme
+id: Tampilan Teks
+mal: ടെക്സ്റ്റ് ഡിസ്പ്ലേ
+es: Visualizar texto
+pt: Exibição do Texto
+zh: 文本显示
+vi: Hiển thị văn bản
+fa: نمایش متن
+ru: Отображение текста
+de: Textansicht
+az: Mətn Ekranı
+ar: عرض النص
+hi: पाठ का प्रकाशन
+te: వాక్య ప్రదర్శన
+ko: 본문 보기 설정
+ms: Paparan Teks
+nl: Tekstweergave
+ta: வசனங்கள்
+zu: Indlela umbhalo ovezwa ngayo
+rif: Aƹedduȓ n ṯira
+zh-tw: 顯示數字
+ben: পাঠ্য প্রদর্শন
+
+$ Settings_Category_Navigation
+en: Navigation
+fr: Navigation
+es: Navegación
+tr: Navigasyon
+id: Navigasi
+mal: നാവിഗേഷൻ
+pt: Navegação
+zh: 导航
+vi: Định hướng
+fa: هدایت
+ru: Навигация
+de: Steuerung
+az: Naviqasiya
+ar: تصفح
+hi: पथ प्रदर्शन
+te: చోదనం
+ko: 안내
+ms: Navigasi
+nl: Gebruiksaanwijzingen
+ta: தெரிந்தெடுத்தல்
+zu: Navigeshini
+rif: Gur ḏi tteṭbiq-a
+zh-tw: 導覽
+ben: নেভিগেশন
+
+$ Settings_Category_Notifications
+en: Notifications
+fr: Notifications
+es: Notificaciones
+ms: Pemberitahuan
+ru: Уведомления
+id: Notifikasi (Pemberitahuan)
+ar: الإشعارات
+nl: Meldingen
+ta: நினைவூட்டல்
+de: Benachrichtigungen
+zu: Nothifikheshini
+zh: 通知
+fa: اطلاعیه ها
+rif: L'icƹaraṯ
+ben: বিজ্ঞপ্তি
+
+$ Settings_Category_Audio
+en: Audio
+fr: Audio
+fa: صوتی
+ru: Аудио
+es: Audio
+pt: Áudio
+de: Audio
+id: Audio
+az: Audio
+ar: صوتيات
+hi: ऑडियो
+te: ఆడియో
+ko: 오디오
+ms: Audio
+nl: Geluidsbestand
+ta: ஒலிவடிவ வசனங்கள்
+zu: Umsindo
+zh: 音频
+rif: Awdyu
+ben: শ্রুতি
+
+$ Settings_Category_Interface
+en: User Interface
+fr: Interface utilisateur
+es: Interfaz de usuario
+tr: Kullanıcı arayüzü
+id: Antarmuka pengguna
+mal: യൂസര്‍ ഇന്റർഫേസ്
+pt: Interface do Usuário
+zh: 用户界面
+vi: Giao diện người dùng
+fa: رابط کاربر
+ru: Интерфейс пользователя
+de: Benutzeroberfläche
+az: stifadəçi interfeysi
+ar: واجهة مستخدم
+hi: उपयोक्ता इंटरफेस
+te: వినియోగదారుని మధ్యవర్తిత్వం
+ko: 사용자 설정
+ms: Antara pengguna
+nl: Gebruikershandleiding
+ta: வாசித்தல்
+zu: I-User Interface
+rif: Sistem n Ustaƹmel
+zh-tw: 使用者介面
+ben: ব্যবহারকারী ইন্টারফেস
+
+$ Settings_Book_Selection
+en: Book selection
+fr: Sélection de livres
+es: Selección de Libro
+pt: Seleção de livros
+tr: Kitap Seçimi
+id: Susunan Pemilihan Kitab
+mal: പുസ്തകം തിരഞ്ഞെടുക്കൽ
+zh: 书选择
+vi: Chọn lựa sách
+fa: انتخاب کتاب
+ru: Меню выбора книги
+de: Buchauswahl
+az: Kitab seçimi
+ar: مختارات من الكتب
+hi: पुस्तक का चयन
+te: పుస్తకం ఎంపిక
+ko: 선택
+nl: Selectie van boek
+ta: புத்தக தெரிந்தெடுப்பு முறை
+zu: Ukukhetha Izincwadi
+rif: Xḍar ḏi lkutub
+zh-tw: 選擇書卷
+ben: বই নির্বাচন
+
+$ Settings_Book_Selection_List
+en: List of book names
+fr: Liste de noms de livres
+es: Lista de nombres de libros
+pt: Lista de livros
+tr: Kitap isimleri listesi
+id: Daftar nama-nama kitab
+mal: പുസ്തക പേരുകളുടെ ലിസ്റ്റ്
+zh: 书名列表
+vi: Danh sách tên sách
+fa: لیست نام کتاب
+ru: Список с названиями книг
+de: Liste der Buchnamen
+az: Kitab adlarının siyahısı
+ar: قائمة أسماء الكتب
+hi: पुस्तक नामों की सूची
+te: పుస్తకం పేర్ల జాబితా
+ko: 목록별
+nl: Lijst van boeken
+ta: புத்தகங்களின் பெயர் பட்டியல்
+zu: Uhlu lwamagama ezincwadi
+rif: Lisṭa n yisemawen n lkutub
+zh-tw: 書卷清單
+ben: বইয়ের নামের তালিকা
+
+$ Settings_Book_Selection_Grid
+en: Grid of book abbreviations
+fr: Grille d'abréviations de livres
+es: Menú de abreviaturas de libros
+pt: Ícones de livros
+tr: Kitap kısaltmalarının kılavuzu
+id: Singkatan nama kitab
+mal: പുസ്തകം ചുരുക്കെഴുത്തുകളുടെ ഗ്രിഡ്
+zh: 网格
+vi: Bảng viết tắt tên sách
+fa: جدول اختصارات کتاب
+ru: Сетка с аббревиатурами названий книг
+de: Grafische Buchauswahl
+az: Kitabın kısaltmaları Grid
+ar: شبكة اختصارات الكتب
+hi: पुस्तक संक्षिप्त की सूची
+te: పుస్తక నిర్వచనాలు
+ko: 약자별
+nl: Overzicht van boekafkortingen
+ta: பெயர் சுருக்க  பட்டியல்
+zu: Igridi yezifinyezo zezincwadi
+rif: Ȓmeftaḥ n yisemawen n lkutub
+zh-tw: 
+ben: বইয়ের সংক্ষেপের গ্রিড
+
+$ Settings_Red_Letters
+en: Red letters
+fr: Paroles de Jésus en rouge
+es: Letras rojas
+pt: Letras vermelhas
+tr: Kırmızı Harfler
+id: Huruf-huruf Merah
+mal: ചുവന്ന അക്ഷരങ്ങൾ
+vi: Chữ đỏ
+fa: حروف قرمز
+ru: Красный текст
+de: Rote Schrift
+az: Qırmızı hərflər
+ar: الأحرف الحمراء
+hi: लाल अक्षर
+te: ఎరుపు అక్షరాలు
+ko: 붉은 글자
+nl: Rode letters
+ta: சிவப்பு எழுத்து வசனங்கள்
+zu: Izinhlamvu ezibomvu
+zh: 红字显示
+rif: Ṯira ḏ ṯizeggwaɣin
+zh-tw: 紅字
+ben: লাল অক্ষর
+
+$ Settings_Red_Letters_Summary
+en: Show the words of Jesus in red
+fr: Afficher les paroles de Jésus en rouge
+es: Mostrar las palabras de Jesus en rojo
+pt: Mostrar as palavras de Jesus em vermelho
+tr: İsa'nın sözlerini kırmızıya göster
+id: Tampilkan kata-kata Yesus dengan huruf merah
+mal: യേശുവിന്റെ വാക്കുകള്‍ ചുവന്ന അക്ഷരങ്ങളില്‍ കാണിക്കുക
+vi: Hiển thị lời Chúa Giê-su bằng chữ đỏ
+fa: نشان دادن کلمات عیسی به رنگ قرمز
+ru: Выделять слова Иисуса красным цветом
+de: Die Worte Jesu in roter Schrift anzeigen
+az: İsa sözlərini qırmızı rəngdə göstərin
+ar: عرض أقوال يسوع باللون الأحمر
+hi: यीशु के शब्दों को लाल रंग में दिखाओ
+te: యేసు పలికిన మాటలు ఎరుపు రంగులో చూపించు
+ko: 예수님의 말씀을 붉은 색으로 표기
+nl: Toon de woorden van Jezus in rood
+ta: கிறிஸ்துவின் வார்த்தைகளை சிவப்பு நிறத்தில் காண்பித்தல்
+zu: bonisa amagama kaJesu ngezinhlamvu ezibomvu
+zh: 用红字显示耶稣的话语
+rif: Sbeyyen awaȓen n Lmasiḥ s ṯira ṯizeggwaɣin
+zh-tw: 耶穌的話以紅字顯示
+ben: লাল রঙে যিশুর কথাগুলো দেখান
+
+$ Settings_Display_Images_In_Bible_Text
+en: Images in Bible text
+fr: Images dans le texte biblique
+es: Imágenes en texto bíblico
+ru: Картинки в библейском тексте
+de: Bilder im Bibeltext
+ar: صور في النص الكتابي
+zu: Izithombe embhalweni weBhayibheli
+zh: 经文中的图片
+fa: تصاویر در متن کتاب مقدس
+rif: Ttṣawar jar ṯira n Lkitab
+
+$ Settings_Display_Videos_In_Bible_Text
+en: Videos in Bible text
+fr: Vidéos dans le texte biblique
+es: Vídeos en texto bíblico
+ru: Видео в библейском тексте
+de: Videos im Bibeltext
+ar: فيديوهات في النص الكتابي
+zu: Amavidiyo embhalweni weBhayibheli
+zh: 经文中的视频
+fa: ویدیو در متن کتاب مقدس
+rif: Vidyawaṯ jar ṯira n Lkitab
+
+$ Settings_Display_Images_Normal
+en: Show images
+fr: Montrer les images
+es: Mostrar imágenes
+ru: Показывать картинки
+de: Bilder zeigen
+ar: عرض الصور
+zu: Bonisa izithombe
+zh: 显示图片
+fa: نمایش تصاویر
+rif: Sbeyyen ttṣawar
+
+$ Settings_Display_Images_Hidden
+en: Hide images
+fr: Cacher les images
+es: Ocultar imágenes
+ru: Скрывать картинки
+de: Bilder ausblenden
+ar: إخفاء الصور
+zu: Fihla izithombe
+zh: 隐藏图片
+fa: مخفی کردن تصاویر
+rif: Snuffar ttṣawar
+
+$ Settings_Display_Videos_Normal
+en: Show normal size
+fr: Montrer en taille normale
+es: Mostrar tamaño normal
+ru: Смотреть полномасштабные видео
+de: Normale Größe zeigen
+ar: عرض بالحجم العادي
+zu: Bonisa usayizi ojwayelekile
+zh: 正常显示
+fa: نمایش به اندازه عادی
+rif: Sbeyyen-iṯen s ȓaƹbar ƹadi
+
+$ Settings_Display_Videos_Small
+en: Show small size
+fr: Montrer en petite taille
+ru: Смотреть видео уменьшенного размера
+de: Kleine Größe zeigen
+ar: عرض بالحجم الصغير
+zu: Bonisa usayizi omncane
+zh: 较小显示
+fa: نمایش به اندازه کوچک
+rif: Sbeyyen-iṯen s ȓaƹbar ḏ aquḥ
+
+$ Settings_Display_Videos_Hidden
+en: Hide videos
+fr: Cacher les vidéos
+es: Ocultar videos
+ru: Скрывать видео
+de: Videos ausblenden
+ar: إخفاء الفيديوهات
+zu: Fihla amavidiyo
+zh: 隐藏视频
+fa: مخفی کردن ویدیو
+rif: Snuffar vidyawaṯ
+
+$ Settings_Show_Border
+en: Show border
+fr: Bordure autour du texte
+tr: Kenarlığı Göster
+id: Tampilkan perbatasan
+mal: ബോർഡർ കാണിക്കുക
+es: Mostrar borde al texto
+pt: Exibir Bordas
+vi: Hiển thị đường viền
+fa: کادر را نشان بده
+ru: Показывать рамку
+de: Rahmen anzeigen
+az: Haşiyə göstər
+ar: عرض حدود النص
+hi: सीमा दिखाना
+te: పరిమితి చూపించు
+ko: 테두리 표시
+ms: Tunjuk sempadan
+nl: Toon rand
+ta: வசனங்களுக்கு சுற்று வர்ணம் அமை
+zu: Bonisa ibhoda
+zh: 显示边框
+rif: Sbeyyen marku
+zh-tw: 顯示外框
+ben: সীমানা দেখান
+
+$ Settings_Show_Border_Summary
+en: Show decorative border around text
+fr: Afficher une bordure decorative autour du texte
+tr: Dekoratif metin kenarlığı göster
+id: Tunjukkan batas dekoratif di sekitar teks
+mal: വാചകത്തിനു ചുറ്റും അലങ്കാര ബോർഡർ കാണിക്കുക
+es: Mostrar un borde decorativo alrededor del texto
+pt: Exibir bordas decorativas ao redor do texto
+vi: Hiển thị đường viền trang trí xung quanh văn bản
+fa: کادر تزئینی اطراف متن را نشان بده
+ru: Показывать декоративную рамку вокруг текста
+de: Einen dekorativen Rahmen um den Text anzeigen
+az: Mətn ətrafında dekorativ haşiyələr göstər
+ar: عرض زينة حول حدود النص
+hi: पाठ के आसपास सजावटी सीमा दिखाएं
+te: వాక్యము చుట్టూ అలంకరణ పరిమితిని చూపించు
+ko: 본문 주위 꾸미는 테두리 표시
+ms: Tunjukkan sempadan hiasan sekitar teks
+nl: Toon sierrand rondom de tekst
+ta: வசனங்களுக்கு சுற்று வர்ணம் (அ) படம் அமைத்தல்
+zu: Zungeza umbhalo ngebhoda ehlobisayo
+zh: 在经文周围显示艺术边框
+rif: Senneḍ i ṯira marku n ddikur
+zh-tw: 
+ben: টেক্সটের চারপাশে আলংকারিক সীমানা দেখান
+
+$ Settings_Verse_Numbers
+en: Show verse numbers
+fr: Afficher numéros de versets
+es: Mostrar números de versículos
+pt: Mostrar números dos versículos
+tr: Ayet Numaralarını Göster
+id: Tampilkan Nomor Ayat
+mal: വാക്യ നമ്പറുകള്‍ കാണിക്കുക
+zh: 显示经文数字
+vi: Hiển thị số câu
+fa: نشان دادن اعداد آیه
+ru: Показывать номера стихов
+de: Versnummern anzeigen
+az: Ayə nömrələrini göstər
+ar: عرض عدد الآيات
+hi: वचन संख्या दिखाएं
+te: వచనం సంఖ్యలను చూపించు
+ko: 구절 숫자 표기
+nl: Toon de vers nummers
+ta: வசன எண்களைக் காண்பி
+zu: Bonisa izinombolo zamavesi
+rif: Egg i l'ayaṯ l'arqam
+zh-tw: 顯示經節數字
+ben: শ্লোক বিন্যাস
+
+$ Settings_Verse_Layout
+en: Verse layout
+fr: Mise en page des versets
+es: Diseño de Versículos
+pt: Esboço do versículo
+tr: Verse Düzeni
+id: Penataan Ayat
+mal: വാക്യ ലേഔട്ട്
+vi: Trình bày câu
+fa: طرح آیه
+ru: Расположение стихов
+de: Versanordnung
+az: Verse düzeni
+ar: تصميم عرض الآيات
+hi: वचन अभिन्यास (लेओउट)
+te: వచనం విన్యాసం
+ko: 구절 배치
+nl: Weergave van verzen
+ta: வசனங்களை காண்பிக்கும் விதம்
+zu: Isakhiwo samavesi
+zh: 经文版式
+rif: Asettef n l'ayaṯ
+zh-tw: 經文編排外觀
+ben: অনুচ্ছেদে আয়াত
+
+$ Settings_Verse_Layout_Paragraphs
+en: Verses in paragraphs
+fr: Versets en paragraphes
+es: Versículos en párrafos
+pt: Versículos em parágrafos
+tr: Paragrafların içindeki ayetler
+id: Digabung menjadi paragraf
+mal: ഖണ്ഡികകളിൽ വാക്യങ്ങൾ
+vi: Câu trong đoạn văn
+fa: آیات در پاراگراف ها
+ru: Объединить стихи в параграфы
+de: Verse in Absätzen anzeigen
+az: Paraqraflarda ayələr
+ar: الآيات في فقرات
+hi: पैराग्राफ में आयत
+te: వచనాలు ప్యారగ్రాపుల్లో
+ko: 단락별 보기
+nl: Verzen in alinea's
+ta: பத்திகளாக காண்பி
+zu: Amavesi kumapharagrafu
+zh: 段落式
+rif: L'ayaṯ ḏi lfeqraṯ
+zh-tw: 以段落顯示
+ben: প্রতি লাইনে একটি শ্লোক
+
+$ Settings_Verse_Layout_One_Per_Line
+en: One verse per line
+fr: Un verset par ligne
+es: Un versículo por linea
+pt: Um versículo por linha
+tr: Hat başına bir ayet
+id: Terpisah
+mal: ഒരു വരിയിൽ ഒരു വാക്യം
+vi: Một câu trên một dòng
+fa: یک آیه در هر خط
+ru: Каждый стих отдельно
+de: Verse einzeln anzeigen
+az: Hər satırda bir ayə
+ar: اية لكل سطر
+hi: प्रति पंक्ति एक कविता
+te: ఒక వరుసలో ఒక వచనం
+ko: 줄당 한 구절
+nl: Één vers per regel
+ta: ஒவ்வொன்றாக காண்பி
+zu: Ivesi elilodwa emugqeni ngamunye
+zh: 分节式
+rif: Kuȓ l'aya ɣares aṣeddir nnes
+zh-tw: 以每節顯示
+ben: প্রতি লাইনে একটি শ্লোক
+
+$ Settings_Verse_Selection
+en: Show verse selector
+fr: Montrer sélecteur de versets
+tr: Ayet Seçicisini Göster
+id: Tampilkan Pemilih Ayat
+mal: വാക്യ സെലക്ടർ കാണിക്കുക
+es: Mostrar Selector de Versículos
+pt: Exibir Seletor de Versículo
+zh: 显示经文选择器
+vi: Hiển thị Công Cụ Chọn Lựa Câu
+fa: نشان دادن نمایشگر آیه
+ru: Показывать меню выбора стиха
+de: Versauswahl anzeigen
+az: Ayet seçicisini göstər
+ar: عرض منتقي الآيات
+hi: श्वेयर चयनकर्ता दिखाएं
+te: వచనం ఎంపికను చూపించు
+ko: 구절 선택창 표기
+nl: Toon selectie van verzen
+ta: வசனத் தெரிந்தெடுப்பானைக் காண்பி
+zu: Bonisa isikhethi-mavesi
+rif: Sbeyyen mamc ɣa ṯexḍareḏ l'ayaṯ
+zh-tw: 顯示經節選擇器
+ben: শ্লোক নির্বাচক দেখান
+
+$ Settings_Interface_Language
+en: Language
+fr: Langue d'interface
+es: Idioma del interfaz
+pt: Idioma da interface
+tr: Arayüz Dili
+id: Bahasa antarmuka
+mal: ഭാഷ
+zh: 语言
+vi: Ngôn ngữ giao diện
+fa: زبان رابط
+ru: Язык
+de: Benutzersprache
+az: Dil
+ar: اللغة
+hi: भाषा
+te: భాష
+ko: 언어
+ms: Bahasa
+nl: Gebruikerstaal
+ta: மொழி
+zu: Ulimi
+rif: Iȓes ḏ Wawaȓen
+zh-tw: 介面語言
+ben: ভাষা
+
+$ Settings_Layout_Direction
+en: Layout direction
+fr: Direction de mise en page
+tr: Yerleşim yönü
+id: Arah tata letak
+mal: ലേഔട്ട് ദിശ
+es: Dirección de la distribución
+pt: Direção do Layout
+zh: 布局方向
+vi: Hướng trình bày
+fa: مدیریت آرایش
+ru: Направление разметки
+de: Richtung des Layouts
+az: düzümü istiqaməti
+ar: إدارة التصميم
+hi: लेआउट दिशा
+te: విన్యాస నిర్ధేశం
+ko: 배치 방향
+nl: Layoutorientatie
+ta: தளஅமைவின் திசை
+zu: Indlela yesendlaleko
+rif: L'itijah n usettef
+zh-tw: 設定介面方向
+ben: বিন্যাস নির্দেশনা
+
+$ Settings_Layout_Direction_LTR
+en: Left to Right
+fr: De gauche à droite
+es: De izquierda a derecha
+tr: Soldan sağa
+id: Kiri ke kanan
+mal: ഇടത് നിന്ന് വലത്തേക്ക്
+pt: Esquerda para Direita
+zh: 左到右
+vi: Từ trái qua phải
+fa: چپ به راست
+ru: Слева направо
+de: von links nach rechts
+az: Soldan sağa
+ar: من اليمين إلى اليسار
+hi: बाएं से दाएं
+te: ఎడమ నుండి కుడికి
+ko: 좌에서 우로
+ms: Kiri ke Kanan
+nl: Van links naar rechts
+ta: இடமிருந்து வலம்
+zu: Kusukela kwesokunxele kuya kwesokudla
+rif: Aẓermaḍ aȓ ufusi
+zh-tw: 由左至右
+ben: বাম থেকে ডান
+
+$ Settings_Layout_Direction_RTL
+en: Right to Left
+fr: De droite à gauche
+es: De derecha a izquierda
+tr: Sağdan sola
+id: Kanan ke kiri
+mal: വലത് നിന്ന് ഇടത്തേക്ക്
+pt: Direita para Esquerda
+zh: 右到左
+vi: Từ phải qua trái
+fa: راست به چپ
+ru: Справа налево
+de: von rechts nach links
+az: Sağdan sola
+ar: من اليسار إلى اليمين
+hi: दाएं से बाएं
+te: కుడి నుండి ఎడమకు
+ko: 우에서 좌로
+ms: Kanan ke Kiri
+nl: Van rechts naar links
+ta: வலமிருந்து இடம்
+zu: Kusukela kwesokudla kuya kwesokunxele
+rif: Afusi aȓ uẓermaḍ
+zh-tw: 由右至左
+ben: ডান থেকে বাম
+
+$ Settings_Layout_Direction_Interface_Language
+en: Direction of interface language
+fr: Direction de la langue de l'interface
+tr: Arayüz dilinin yönü
+id: Arah bahasa antarmuka
+mal: ഇന്റർഫേസ് ഭാഷയുടെ ദിശ
+es: Dirección del idioma de interfaz
+pt: Direção do idioma da interfaze
+vi: Hướng ngôn ngữ giao diện
+fa: مدیریت زبان رابط
+ru: Направление языка интерфейса
+de: Schreibrichtung der Benutzersprache
+az: İnterfeys dilinin istiqaməti
+ar: إتجاه واجهة اللغات
+hi: अंतराफलक भाषा की दिशा
+te: మధ్యవర్తి భాష యొక్క నిర్ధేశం
+ko: 설정 언어대로
+ms: Hala tuju antara muka Bahasa
+nl: Tekstrichting van gebruikerstaal
+ta: இடைமுக மொழி எழுத்தின் திசை
+zu: Indlela yolimi lwe-interface
+zh: 界面语言的方向
+rif: L'itijah n wawaȓen ḏi tteṭbiq-a
+zh-tw: 
+ben: ইন্টারফেস ভাষার দিকনির্দেশ
+
+$ Settings_Layout_Direction_Text
+en: Direction of current text
+fr: Direction du texte actuel
+tr: Mevcut metnin yönü
+id: Arah teks saat ini
+mal: നിലവിലുള്ള ടെക്സ്റ്റിന്റെ ദിശ
+es: Dirección del texto actual
+pt: Direção do texto atual
+vi: Hướng văn bản hiện hành
+fa: مدیریت متن فعلی
+ru: Направление текущего текста
+de: Schreibrichtung des aktuellen Textes
+az: Cari mətnin istiqaməti
+ar: إتجاه النص الحالي
+hi: वर्तमान पाठ की दिशा
+te: ప్రస్తుత వాక్యభాగం యొక్క నిర్ధేశం
+ko: 현재 본문대로
+ms: Arahan teks semasa
+nl: Tekstrichting
+ta: தற்போதைய வாக்கியங்களின் திசை
+zu: Indlela yombhalo wamanje
+zh: 当前文本方向
+rif: L'itijah n ṯira-ya
+zh-tw: 
+ben: বর্তমান লেখার দিকনির্দেশ
+
+$ Settings_Audio_Highlight_Phrase
+en: Highlight synchronized phrases
+es: Resaltar las frases sincronizadas
+fr: Phrases synchronisées en jaune
+pt: Destacar frases sincronizadas
+zh: 突出显示同步短语
+vi: Làm nổi bật các cụm từ đồng bộ
+fa: برجسته کردن عبارات هم گام
+ru: Выделять читаемые фразы
+de: Synchronisierte Wortgruppen farblich markieren
+id: Menyoroti frasa yang disinkronkan
+az: Sinxronlaşdırılmış ifadələri vurğula
+ar: عرض الجمل المتطباقة بالأصفر
+hi: वाक्यांशों को हाइलाइट करें
+te: సమకాలీకరించబడిన పదబంధాలను హైలైట్ చేయండి
+ko: 음성 구절 하이라이트
+ms: Serlahkan frasa disegerakkan
+nl: Markeer gesynchroniseerde zinnen
+ta: மஞ்சள் நிறப் பின்னணியோடு வசனங்களை வாசி
+zu: Qhakambisa izisho ezisinkhronayiziwe
+rif: Smeḍhar-d ljumlaṯ ak uwdyu nnes s kulur
+zh-tw: 同步標示經節
+ben: সিঙ্ক্রোনাইজড বাক্যাংশগুলি হাইলাইট করুন
+
+$ Settings_Audio_Highlight_Phrase_Summary
+en: Show current phrase in yellow when playing audio
+es: Mostrar la frase actual en amarillo al reproducir el audio
+fr: Afficher la phrase en cours en jaune lors de la lecture audio
+pt: Exibir frase atual em amarelo enquanto tocando áudio
+vi: Hiển thị cụm từ hiện hành bằng màu vàng khi chạy âm thanh
+fa: هنگام پخش صوتی٬ عبارات فعلی زردرنگ نشان داده شود
+ru: Выделять читаемую фразу желтым цветом
+de: Beim Abspielen des Tons die entsprechende Wortgruppe gelb markieren
+id: Menyoroti frasa dengan warna kuning ketika putar audio.
+az: Səs oynarkən cari sözləri sarı rəngdə göstərin
+ar: عرض الجملة الجارية حالياً باللون الأصفر
+hi: ऑडियो खेलते समय पीले रंग में हाइलाइट करें
+te: ఆడియోను ప్లే చేస్తున్నప్పుడు పసుపు రంగులో ప్రస్తుత పదబంధాన్ని చూపించు
+ko: 오디오 재생시 해당 구절들 노란색으로 표시하기
+ms: Tunjukkan frasa semasa dengan warna kuning apabila memainkan audio
+nl: Toon zin in geel tijdens het afspelen
+ta: ஒலிவடிவ வசனம் இயங்கும்போது வாக்கியம் மஞ்சள் நிறப் பின்னணியில் காணப்படும்
+zu: Bonisa isisho samanje ngombala ophuzi ngenkathi udlal umsindo
+zh: 播放视频时当前短语显示为黄色
+rif: Ljumla-ya arr-it-iḏ ḏ ṯawraɣṯ ak uwdyu nnes
+zh-tw: 標示閱讀中的經節
+ben: অডিও চালানোর সময় হলুদে বর্তমান বাক্যাংশটি দেখান
+
+$ Settings_Audio_Speed
+en: Playback speed
+fr: Vitesse de lecture
+fa: سرعت پخش
+ru: Скорость воспроизведения
+es: Velocidad de reproducción
+pt: Velocidade de reprodução
+de: Abspielgeschwindigkeit
+id: Pengaturan kecepatan audio
+az: Oynatma sürəti
+ar: سرعة القرائة
+hi: ऑडियो की गति
+te: ప్లేబ్యాక్ వేగం
+ko: 재생 속도
+ms: Kelajuan main semula
+nl: Afspeelsnelheid
+ta: ஒலிவடிவ வசனம் இயங்கும் வேகம்
+zu: Isivinini sokuphinda udlale futhi
+zh: 回放速度
+rif: Awdyu-ya xḍar cḥaȓ ɣa yazzeȓ
+ben: প্লেব্যাক গতি
+
+$ Settings_Audio_Speed_Normal
+en: Normal
+fr: Normale
+es: Normal
+fa: معمولی
+ru: Нормальная
+pt: Normal
+de: Normal
+id: Normal
+az: Normal
+ar: متوسط
+hi: साधारण
+te: సాధారణ
+ko: 보통
+ms: Normal
+nl: Normaal
+ta: இயல்பான வேகம்
+zu: Esijwayelekile
+zh: 正常
+rif: Ƹadi
+ben: স্বাভাবিক
+
+$ Settings_Audio_Access_Method
+en: Audio download or streaming
+fr: Streaming ou téléchargement audio
+id: Mengunduh atau streaming
+ar: تنزيل أو بث الصوت
+nl: Geluidsbestand downloaden of streamen
+ta: ஒலிவடிவ வசன பதிவிறக்கம் (அ) இயக்கம்
+ru: Загружать аудиофайлы или слушать потоковое аудио
+de: Audio herunterladen oder streamen
+zu: Ukudawuniloda noma ukusakaza umsindo
+zh: 音频下载或串流
+fa: دانلود یا استریم صدا
+rif: Awdyu s tteḥmil niɣ diriket zi lanternet
+ben: অডিও ডাউনলোড বা স্ট্রিমিং
+
+$ Settings_Audio_Access_Method_Download
+en: Download audio files
+fr: Télécharger fichiers audio
+id: Unduh file-file audio
+ar: تنزيل ملفات الصوت
+nl: Geluidsbestanden downloaden
+ta: பதிவிறக்க முறையில்
+ru: Загружать аудиофайлы
+de: Herunterladen von Audiodateien
+zu: Dawuniloda ifayela lomsindo
+zh: 下载音频文件
+fa: دانلود فایل های صوتی
+rif: Xemmeȓ fičaṯ n uwdyu
+ben: অডিও ফাইল ডাউনলোড করুন
+
+$ Settings_Audio_Access_Method_Stream
+en: Stream audio files
+fr: Streaming audio
+id: Stream audio
+ar: جريان ملفات الصوت
+nl: Geluidsbestanden streamen
+ta: இயக்க முறையில்
+ru: Слушать потоковое аудио
+de: Audiodateien streamen
+zu: Sakaza amafayela omsindo
+zh: 串流音频文件
+fa: استریم فایل های صوتی
+rif: Seƹyar awdyu diriket zi lanternet
+ben: স্ট্রিম অডিও ফাইল
+
+$ Settings_Audio_Download_Mode
+en: Audio file download
+fr: Téléchargement de fichiers audio
+fa: دانلود فایل صوتی
+ru: Скачивание аудио файла
+es: Descargar archivos de audio
+pt: Baixar arquivo de áudio
+de: Herunterladen der Audiodatei
+id: Unduhan file audio
+az: Audio faylını yükləyin
+ar: تحميل الملف الصوتي
+hi: ऑडियो फ़ाइल डाउनलोड
+te: ఆడియో ఫైల్ డౌన్లోడ్
+ko: 오디오 파일 내려받기
+ms: Serlahkan frasa disegerakkan
+nl: Downloaden van geluidsbestand
+ta: ஒலிவடிவ வசனம் பதிவிறக்கும் விதம்
+zu: Ukudawuniloda ifayela lomsindo
+zh: 音频文件已下载
+rif: Tteḥmil n fiča n uwdyu
+ben: অডিও ফাইল ডাউনলোড
+
+$ Settings_Audio_Download_Prompt
+en: Always ask before downloading
+fr: Demander avant de télécharger
+fa: همیشه قبل از دانلود اجازه گرفته شود
+ru: Всегда спрашивать перед скачиванием
+es: Siempre preguntar antes de descargar
+pt: Sempre perguntar antes de baixar
+de: Vor dem Herunterladen immer fragen
+id: Selalu bertanya sebelum mengunduh
+az: Yükləməzdən əvvəl həmişə soruş
+ar: الإستئذان قبل التحميل
+hi: डाउनलोड करने से पहले हमेशा पूछें
+te: డౌన్లోడ్ చేయడానికి ముందు అడుగుము
+ko: 내려받기 전 항상 묻기
+ms: Sentiasa tanya sebelum memuat turun
+nl: Toestemming vragen voor het downloaden
+ta: அனுமதி பெற்று பதிவிறக்கு
+zu: Buza njalo ngaphambi kokudawuniloda
+zh: 下载前总是询问
+rif: Sseqsa ȓebda qbeȓ aḏ txemmȓeḏ can ḥaja
+ben: সবসময় ডাউনলোড করার আগে জিজ্ঞাসা করুন
+
+$ Settings_Audio_Download_Automatic
+en: Download automatically
+fr: Télécharger automatiquement
+fa: دانلود اتوماتیک وار
+ru: Скачивать автоматически
+es: Descargar automáticamente
+pt: Baixar automaticamente
+de: Automatisch herunterladen
+id: Mengunduh secara otomatis
+az: Avtomatik yüklə
+ar: التحميل بصورة الية
+hi: अपने आप से डाउनलोड करें
+te: ఆటోమేటిక్ డౌన్లోడ్ చేయండి
+ko: 자동 내려받기
+ms: Muat turun secara automatik
+nl: Downloaden zonder vragen
+ta: தானாக பதிவிறக்கு
+zu: Dawuniloda ngokuzenzekelayo
+zh: 自动下载
+rif: Tteḥmil uṭumatik
+ben: স্বয়ংক্রিয়ভাবে ডাউনলোড করুন
+
+$ Settings_Audio_Download_Automatic_Wifi
+en: Download automatically if using WiFi
+fr: Télécharger automatiquement si vous êtes sur WiFi
+fa: دانلود اتوماتیک وار هنگام استفاده از WiFi
+ru: Скачивать автоматически при подключении по WiFi
+es: Descargar automáticamente si usa WiFi
+pt: Baixar automaticamente usando a rede sem fio
+de: Automatisch herunterladen wenn WLAN genutzt wird
+id: Mengunduh secara otomatis kalau ada WiFi
+az: WiFi istifadə edərkən avtomatik olaraq yüklə
+ar: التحميل بصورة الية فحلت إستعمال وفي
+hi: सिर्फ वाई-फाई  (Wi-Fi)से डाउनलोड करें
+te: వైఫైని (Wi-Fi) ఉపయోగించి డౌన్లోడ్ చేయండి
+ko: 와이파이(WiFi) 사용시 자동으로 내려받기
+ms: Muat turun secara automatik jika menggunakan WiFi
+nl: Automatisch downloaden bij internetverbinding
+ta: வைஃபை இணைப்பில் மட்டும் தானாக பதிவிறக்கு
+zu: Dawuniloda ngokuzenzekelayo uma usebenzisa i-WiFi
+zh: 在WiFi状态下自动下载
+rif: Tteḥmil uṭumatik meȓa ixeddem s Wifi
+ben: ওয়াইফাই ব্যবহার করলে স্বয়ংক্রিয়ভাবে ডাউনলোড করুন
+
+$ Settings_Keep_Screen_On
+en: Keep screen on
+fr: Gardez l'écran allumé
+fa: روشن نگه داشتن صفحه نمایش
+ru: Не выключать экран
+es: Mantener la pantalla encendida
+pt: Manter a tela ligada
+de: Display eingeschaltet lassen
+id: Layar terus menyala
+az: Ekranı açıq saxla
+ar: ترك الشاشة تعمل
+hi: हमेशा स्क्रीन चालु रहें
+te: స్క్రీన్‌ని వినియోగంలో ఉంచండి
+ko: 화면 자동 꺼짐 해제
+ms: Teruskan skrin
+nl: Scherm zichtbaar laten
+ta: திரை அணையாமல் வை
+zu: Gcina iskrini sikhanya
+zh: 保持屏幕常亮
+rif: Ceƹƹeȓ ccaca bȓa ma aḏ texsi
+ben: পর্দা চালু রাখুন
+
+$ Settings_Share_Usage_Data
+en: Share usage data
+fr: Partager des données d'utilisation
+pt: Compartilhar dados utilizados
+es: Compartir datos de uso
+de: Nutzerdaten weitergeben
+id: Membagi data penggunaan
+az: İstifadə məlumatlarını paylaş
+ar: مشاركة البيانات المتعلقة بالإستخدام
+hi: ऐप को बेहतर बनाने के लिए फिडबैक डेटा दें
+te: వినియోగ డేటాను షేర్ చేయండి
+fa: به اشتراک گذاشتن فایل های استفاده شده با طراحان برنامه
+ko: 데이터 사용량 공유하기
+ms: Kongsi data penggunaan
+ru: Поделиться данными об использовании
+nl: Gebruiksdata delen
+ta: பயன்படுத்தியதைப் பகிர்
+zu: Abelana ngedatha yokusetshenziswa
+zh: 分享使用数据
+rif: Carec min ggiɣ gi ljihaz-a
+ben: ব্যবহারের ডাটা শেয়ার করুন
+
+$ Settings_Verse_Of_The_Day
+en: Verse of the day
+fr: Verset du jour
+es: Versículo del día
+ru: Цитата дня
+id: Nats harian
+ar: آية اليوم
+ta: இன்றைய வசனம்
+de: Vers des Tages
+zu: Ivesi losuku
+zh: 今日经文
+fa: آیه امروز
+rif: L'aya n wass-a
+ben: দিনের শ্লোক
+
+$ Settings_Verse_Of_The_Day_Time
+en: Time for verse of the day
+fr: L'heure du verset du jour
+es: Tiempo para el versículo del día
+ru: Время цитаты дня
+id: Jadwal nats harian
+ar: حان الوقت لآية اليوم
+ta: இன்றைய வசன நேரம்
+de: Zeitpunkt für Vers des Tages
+zu: Isikhathi sevesi losuku
+zh: 今日经文时间
+fa: زمان آیه امروز
+rif: Ṯsaƹƹat n l'aya n wass-a
+ben: দিনের শ্লোকের সময়
+
+$ Settings_Verse_Of_The_Day_Book_Collection
+en: Translation for verse of the day
+fr: Traduction pour le verset du jour
+es: Traducción para el versículo del día
+ru: Выбор языка для цитаты дня
+id: Terjemahan nats harian
+ar: ترجمة آية اليوم
+ta: இன்றைய வசனத்தின் மொழிபெயர்ப்பு
+de: Übersetzung für Vers des Tages
+zu: Isihumusho sevesi losuku
+zh: 今日经文
+fa: ترجمه برای آیه امروز
+rif: Ttarjama ƹlaḥsab l'aya n wass-a
+ben: দিনের শ্লোকের অনুবাদ
+
+$ Settings_Daily_Reminder
+en: Daily reminder
+fr: Rappel quotidien
+es: Recordatorio diario
+ru: Ежедневное напоминание
+id: Peringatan harian
+ar: تذكير يومي
+ta: தினசரி வேத வாசிப்பு
+de: Tägliche Erinnerung
+zu: Isikhumbuzo sansukuzonke
+fa: یادآوری روزانه
+rif: Tteḏkir n kuȓ ass
+ben: দৈনিক অনুস্মারক
+
+$ Settings_Daily_Reminder_Time
+en: Time for daily reminder
+fr: L'heure du rappel quotidien
+es: Tiempo para el recordatorio diario
+ru: Время ежедневного напоминания
+id: Jadwal peringatan harian
+ar: حان الوقت للتذكير اليومي
+ta: தினசரி வேத வாசிப்பின் நேரம்
+de: Zeitpunkt für die tägliche Erinnerung
+zu: Isikhathi sesikhumbuzo sansukuzonke
+fa: زمان برای یادآوری روزانه
+rif: Ṯsaƹƹaṯ n tteḏkir n kuȓ ass
+ben: দৈনিক অনুস্মারক করার সময়
+
+$ Account_Page_Title
+en: My Account
+fr: Mon compte
+id: Akun saya
+ar: حسابي
+nl: Mijn account
+ta: எனது விவரம்
+ru: Мой аккаунт
+de: Mein Konto
+zu: I-akhawunti yami
+zh: 我的账户
+fa: حساب من
+rif: Ȓeḥsab inu
+ben: আমার অ্যাকাউন্ট
+
+$ Account_Sign_In_Title
+en: Sign In
+fr: S'identifier
+id: Masuk
+ar: الدخول لحسابي
+nl: Inlognaam
+ta: உள்ளே செல்தல்
+ru: Авторизация
+de: Anmelden
+zu: Ngena
+zh: 登入
+fa: ورود
+rif: Aḏaf
+ben: সাইন ইন করুন
+
+$ Account_Sign_In_Button
+en: Sign In
+fr: S'identifier
+id: Masuk
+ar: الدخول لحسابي
+nl: Inloggen
+ta: உட்புகு
+ru: Авторизоваться
+de: Anmelden
+zu: Ngena
+zh: 登入
+fa: ورود
+rif: Aḏef
+ben: সাইন ইন করুন
+
+$ Account_Sign_Up_Title
+en: Sign Up
+fr: S'inscrire
+id: Daftar
+ar: تسجيل حساب
+nl: Inschrijfnaam
+ta: பதிந்து கொள்தல்
+ru: Регистрация
+de: Registrieren
+zu: Bhalisa
+zh: 注册
+fa: ثبت نام
+rif: Asejjel
+ben: নিবন্ধন করুন
+
+$ Account_Sign_Up_Button
+en: Sign Up
+fr: S'inscrire
+id: Daftar
+nl: Inschrijven
+ta: பதியவும்
+ru: Зарегистрироваться
+de: Registrieren
+ar: تسجيل حساب
+zu: Bhalisa
+zh: 注册
+fa: ثبت نام
+rif: Sejjel
+ben: নিবন্ধন করুন
+
+$ Account_Sign_Out_Button
+en: Sign Out
+fr: Déconnecter
+id: Keluar
+ar: تسجيل حساب
+nl: Uitloggen
+ta: வெளியேறு
+ru: Выйти
+de: Abmelden
+zu: Phuma
+zh: 登出
+fa: خروج
+rif: Ffeɣ qaƹ
+ben: সাইন আউট
+
+$ Account_Sign_Out_Button_Confirmation
+en: Do you want to sign out?\n\nAny new highlights, notes and bookmarks will not be saved to your account.
+fr: Voulez-vous vous déconnecter ?\n\nLes nouveaux surlignements, notes et signets ne seront pas enregistrés sur votre compte.
+ru: Вы хотите завершить сессию?\n\n Внесённые изменения, заметки и закладки не сохранятся в вашем аккаунте.
+de: Möchten Sie sich abmelden?\n\nNeue Markierungen, Notizen und Lesezeichen werden nicht in Ihrem Konto gespeichert.
+ar: هل ترغب في الخروج؟\n\nلن يتم حفظ أي نقاط رئيسية أو ملاحظات أو علامات مرجعية جديدة على حسابك
+zu: Ngabe ufuna ukuphuma?\n\nonke amaphuzu akho avelele, amanothi namabhukhimakhi ngeke aseyiviwe ku-akhawunti yakho.
+zh: 确定登出吗？\n\n新增的突出显示、笔记、书签等可能不会储存。
+fa: آیا می‌خواهید خارج شوید؟   \n\nهیچ نشانه‌ای، یادداشتی یا    نشان‌های جدیدی در حساب شما ذخیره نخواهد شد
+rif: Ma ṯexseḏ aḏ teffɣeḏ qaƹ?\n\nLƹalamaṯ ḏ lmulaḥaḍaṯ ḏ ttaƹliqaṯ ḏ jḏiḏ war twasejjilent ca ḏi ȓeḥsab nnec.
+ben: আপনি কি সাইন আউট করতে চান? \ N \ n কোনো নতুন হাইলাইট, নোট এবং বুকমার্ক আপনার অ্যাকাউন্টে সেভ করা হবে না।
+
+$ Account_Full_Name
+en: Full Name
+fr: Votre Nom
+id: Nama Lengkap
+ar: الاسم بالكامل
+nl: Volledige naam
+ta: முழுபெயர்
+ru: Полное имя
+de: Vollständiger Name
+zu: Igama eliphelele
+zh: 姓名
+fa: نام کامل
+rif: Isem nnec ikmaȓ
+ben: পুরো নাম
+
+$ Account_Email_Address
+en: Email Address
+fr: Adresse courriel
+id: alamat email
+ar: عنوان البريد الإلكتروني
+nl: Emailadres
+ta: மின்னஞ்சல்
+ru: Адрес электронной почты
+de: E-Mail Adresse
+zu: I-adresi Ye-imeyili
+zh: 电邮地址
+fa: آدرس ایمل
+rif: Lƹunwan n lbarid ilektrunik
+ben: ইমেল ঠিকানা
+
+$ Account_Password
+en: Password
+fr: Mot de passe
+id: Kata Sandi
+ar: كلمة المرور
+nl: Wachtwoord
+ta: கடவுச்சொல்
+ru: Пароль
+de: Passwort
+zu: Iphasiwedi
+zh: 密码
+fa: رمز عبور
+rif: Lkud
+ben: পাসওয়ার্ড
+
+$ Account_Confirm_Password
+en: Confirm Password
+fr: Confirmer mot de passe
+id: Konfirmasi Kata Sandi
+ar: تأكيد كلمة المرور
+nl: Wachtwoord bevestigen
+ta: கடவுச்சொல்லை உறுதிசெய்
+ru: Подтвердите пароль
+de: Bestätigen Sie Ihr Passwort
+zu: Qinisekisa Iphasiwedi
+zh: 确认密码
+fa: تایید رمز عبور
+rif: Ḥeqqeq lkud
+ben: পাসওয়ার্ড নিশ্চিত করুন
+
+$ Account_Forgot_Password
+en: Forgot Password?
+fr: Mot de passe oublié ?
+id: Lupa Kata Sandi?
+ar: هل نسيت كلمة المرور
+nl: Wachtwoord vergeten?
+ta: கடவுச்சொல்லை மறந்துவிட்டீர்களா?
+ru: Забыли пароль?
+de: Passwort vergessen?
+zu: Ukhohlwe Iphasiwedi?
+zh: 忘记密码？
+fa: رمز عبور را فراموش کرده‌ام
+rif: Ma ṯettuḏ lkud?
+ben: পাসওয়ার্ড ভুলে গেছেন?
+
+$ Account_Reset_Password
+en: Reset Password
+fr: Réinitialiser mot de passe
+ru: Сбросить пароль
+de: Passwort zurücksetzen
+ar: إعادة ضبط كلمة المرور
+zu: Setha Kabusha Iphasiwedi
+zh: 重置密码
+fa: بازنشانی رمز عبور
+rif: Egg lkud zi jḏiḏ
+ben: পাসওয়ার্ড বাতিল করুন
+
+$ Account_Change_Password
+en: Change Password
+fr: Changer mot de passe
+id: Merubah Kata Sandi
+ar: تغيير كلمة المرور
+nl: Wachtwoord veranderen
+ta: கடவுச்சொல்லை மாற்று
+ru: Изменить пароль
+de: Passwort ändern
+zu: Shintsha Iphasiwedi
+zh: 修改密码
+fa: تغییر رمز عبور
+rif: Beddeȓ lkud
+ben: পাসওয়ার্ড পরিবর্তন করুন
+
+$ Account_Current_Password
+en: Current Password
+fr: Mot de passe actuel
+id: Kata Sandi Sekarang
+ar: كلمة المرور الحالية
+nl: Huidig wachtwoord
+ta: தற்போதைய கடவுச்சொல்
+ru: Текущий пароль
+de: Aktuelles Passwort
+zu: Iphasiwedi Yamanje
+zh: 当前密码
+fa: رمز عبور فعلی
+rif: Lkud iy ɣarek ȓexxu
+ben: বর্তমান পাসওয়ার্ড
+
+$ Account_New_Password
+en: New Password
+fr: Nouveau mot de passe
+id: Kata Sandi Baru
+ar: كلمة المرور الجديدة
+nl: Nieuw wachtwoord
+ta: புதிய கடவுச்சொல்
+ru: Новый пароль
+de: Neues Passwort
+zu: Iphasiwedi Entsha
+zh: 新密码
+fa: رمز عبور جدید
+rif: Lkud ḏ jḏiḏ
+ben: নতুন পাসওয়ার্ড
+
+$ Account_Confirm_New_Password
+en: Confirm New Password
+fr: Confirmer nouveau mot de passe
+id: Konfirmasi Kata Sandi Baru
+ar: تأكيد كلمة المرور
+nl: Nieuw wachtwoord bevestigen
+ta: புதிய கடவுச்சொல்லை உறுதிசெய்
+ru: Подтвердить новый пароль
+de: Bestätigen Sie das neue Passwort
+zu: Qinisekisa Iphasiwedi Entsha
+zh: 确认新密码
+fa: تایید رمز عبور
+rif: Ḥeqqeq lkud ḏ jḏiḏ
+ben: গোপন নম্বর নিশ্চত করুন
+
+$ Account_Change_Profile
+en: Change Profile
+fr: Modifier profil
+ru: Изменить профиль
+de: Profil ändern
+ar: تغيير الملف الشخصي
+zu: Shintsha Iphrofayili
+zh: 个人资料修改
+fa: تغییر پروفایل
+rif: Beddeȓ lmaƹlumaṯ nnec
+ben: প্রোফাইল পরিবর্তন করুন
+
+$ Account_Enter_Password
+en: Enter Password
+fr: Saisir mot de passe
+ru: Введите пароль
+de: Passwort eingeben
+ar: إدخال كلمة المرور
+zu: Faka Iphasiwedi
+zh: 输入密码
+fa: رمز عبور را وارد کنید
+rif: Siḏef lkud
+ben: পাসওয়ার্ড লিখুন
+
+$ Account_Save_Changes_Button
+en: Save Changes
+fr: Enregistrer
+ru: Сохранить изменения
+de: Änderungen speichern
+ar: حفظ التغييرات
+zu: Seyiva Okushintshile
+zh: 保存改变
+fa: ذخیره تغییرات
+rif: Sejjel min ṯbeddȓeḏ
+ben: পরিবর্তনগুলোর সংরক্ষণ
+
+$ Account_Delete_Account_Button
+en: Delete Account
+fr: Supprimer compte
+ru: Удалить аккаунт
+de: Konto löschen
+ar: حذف الحساب
+zu: Sula I-akhawunti
+zh: 删除账户
+fa: حذف حساب کاربری
+
+$ Account_Delete_Account_Title
+en: Delete Account
+fr: Supprimer compte
+ru: Удалить аккаунт
+de: Konto löschen
+ar: حذف الحساب
+zu: Sula I-akhawunti
+zh: 删除账户
+fa: حذف حساب کاربری
+
+$ Account_Delete_Account_Info
+en: If you delete your account, all your saved highlights, notes and bookmarks will be deleted.\n\nPlease enter your password to confirm that you want to do this.
+fr: Si vous supprimez votre compte, tous les surlignements, notes et signets que vous avez enregistrés seront supprimés.\n\nVeuillez saisir votre mot de passe pour confirmer que vous souhaitez le faire.
+es: Si elimina su cuenta, se borrarán todos sus destacados, notas y marcadores guardados.\n\nIntroduzca su contraseña para confirmar que desea hacerlo.
+ru: Если Вы удалите свою учетную запись, все сохраненные Вами основные моменты, заметки и закладки будут удалены.\n\nПожалуйста, введите свой пароль, чтобы подтвердить, что Вы хотите это сделать.
+ar: إذا قمت بحذف حسابك ، فسيتم حذف جميع العلامات المميزة والملاحظات والإشارات المرجعية المحفوظة.\n\nالرجاء إدخال كلمة المرور الخاصة بك لتأكيد رغبتك في القيام بذلك.
+zu: Uma usula i-akhawunti yakho, onke amaphuzu akho avelele, amanothi namabhukhimakhi azocishwa.\n\nFaka iphasiwedi yakho ukuqinisekisa ukuthi ufuna ukukwenza loku.
+zh: 若删除帐户，储存的突出显示、笔记、书签等亦会删除。\n\n请再次输入密码以确认删除帐户。
+fa: اگر حساب کاربری خود را حذف کنید، تمام نشانه‌ها، یادداشت‌ها و نشان‌های ذخیره شده شما حذف خواهند شد.\n\n لطفاً رمزعبور خود را وارد کنید تا این کار را تأیید کنید.
+
+$ Account_Login_Page_Heading
+en: Sign In or Sign Up
+fr: S'identifier ou s'inscrire
+id: Masuk atau Daftar
+ar: الدخول للحساب أو تسجيل حساب
+nl: Inloggen
+ta: உள்ளேபுகு (அ) பதிவு செய்
+ru: Авторизоваться или зарегистрироваться
+de: Anmelden oder Registrieren
+zu: Ngena noma Bhalisa
+zh: 登录或注册
+fa: ورود یا ثبت نام
+rif: Aḏef niɣ Sejjel
+ben: সাইন ইন করুন অথবা নিবন্ধন করুন
+
+$ Account_Login_Page_Info
+en: You can save your highlights, notes, bookmarks and history - and synchronize them with other devices.
+fr: Vous pouvez enregistrer vos surlignements, vos notes et vos signets - et les synchroniser avec d'autres appareils.
+id: Anda bisa menyimpan sorotan, catatan, dan bookmark - dan sinkronisasinya dengan perangkat lain.
+nl: Je kunt hoogtepunten, aantekeningen en bladwijzers opslaan en synchroniseren met andere apparaten.
+ta: நீங்கள் உங்கள் எடுத்து வைத்த குறிப்புகளையும் மேற்கோள்களையும் மற்றவர்களுடைய சாதனத்திற்கு அனுப்பலாம்
+ru: Вы можете сохранять выделение цветом, заметки, закладки и историю и синхронизировать это с другими устройствами.
+de: Sie können Ihre Markierungen, Notizen, Lesezeichen und den Verlauf speichern - und mit anderen Geräten synchronisieren
+ar: يمكنك حفظ النقاط الهامة والملاحظات والإشارات المرجعية والتاريخ - ومزامنتها مع الأجهزة الأخرى
+zu: Ungaseyiva amaphuzu akho avelele, amanothi, amabhukhimakhi nomlando, bese usinkhronayiza namanye amadivayisi.
+zh: 您可以储存突出显示、笔记、书签，并于其它装置上同步。
+fa: شما می‌توانید نشانه‌ها، یادداشت‌ها، نشان‌ها و تاریخچه خود را ذخیره کنید و با سایر دستگاه‌ها همگام سازی کنید.
+Ar: يمكنك حفظ النقاط الهامة والملاحظات والإشارات المرجعية وتاريخ التصفح - ومزامنتها مع الأجهزة الأخرى
+rif: Ṯzemmareḏ aḏ tsejjleḏ lƹalamaṯ ḏ lmulaḥaḍaṯ ḏ ttaƹliqaṯ ḏ ttarix nnec u ƹaweḏ zemmaren aḏ aḏfen ḏi ljihazaṯ nneɣni.
+ben: আপনি আপনার হাইলাইট, নোট, বুকমার্ক এবং ইতিহাস সংরক্ষণ করতে পারেন - এবং অন্যান্য ডিভাইসের সাথে তাদের সিঙ্ক্রোনাইজ করতে পারেন।
+
+$ Account_Logged_In_Page_Info
+en: Your highlights, notes, bookmarks and history are being saved to your account when you are connected to the internet.
+fr: Vos surlignements, notes et signets sont enregistrés sur votre compte lorsque vous êtes connecté à l'internet.
+id: Sorotan, catatan dan bookmark Anda akan disimpan di akun Anda ketika tersambung ke internet.
+nl: Hoogtepunten, aantekeningen en bladwijzers worden bewaard bij internetverbinding.
+ta: உங்களது சாதனம் இணையத் தொடர்பில் இருக்கும்போது உங்களது குறிப்புகளும் மேற்கோள்களும் வைத்து வைக்கப்படும்
+ru: Выделение цветом, заметки, закладки и история будут сохранены в вашем аккаунте при подключении к интернету.
+de: Ihre Markierungen, Notizen, Lesezeichen und der Verlauf werden in Ihrem Konto gespeichert, wenn Sie mit dem Internet verbunden sind.
+ar: يتم حفظ النقاط الهامه والملاحظات والعلامات المرجعية والتاريخ على حسابك عندما تكون متصلاً بالأنترنت
+zu: Amaphuzu akho avelele, amanothi, amabhukhimakhi kanye nomlando wakho kuyaseyiviwa ku-akhawunti yakho ngenkathi uxhume ku-inthanethi.
+zh: 您设定的突出显示、笔记、书签等将在下一次有网路链接时储存。
+fa: نشانه‌ها، یادداشت‌ها، نشان‌ها و تاریخچه شما هنگامی که به اینترنت وصل هستید، در حساب کاربری شما ذخیره می‌شوند
+Ar: يتم حفظ النقاط الهامة وملاحظاتك والإشارات المرجعية والمحفوظات في حسابك عندما تكون متصلاً بالإنترنت
+rif: Lƹalamaṯ ḏ lmulaḥaḍaṯ ḏ ttaƹliqaṯ ḏ ttarix nnec aḏ sejjlen ḏi ȓeḥsab nnec xmi ɣarek ɣa yiȓi kuniksyun ḏi lanternet.
+ben: যখন আপনি ইন্টারনেটের সাথে সংযুক্ত থাকবেন তখন আপনার হাইলাইট, নোট, বুকমার্ক এবং ইতিহাস আপনার অ্যাকাউন্টে সংরক্ষণ করা হচ্ছে।
+
+$ Account_Message_Enter_Name
+en: Please enter your name.
+fr: Veuillez saisir votre nom.
+ru: Введите, пожалуйста, ваше имя.
+de: Bitte geben Sie Ihren Namen ein.
+ar: برجاء إدخال اسمك
+zu: Faka igama lakho
+zh: 请输入姓名。
+fa: لطفا نام خود را وارد کنید
+rif: Siḏef isem nnec.
+ben: আপনার নাম লিখুন.
+
+$ Account_Message_Enter_Valid_Email
+en: Please enter a valid email address.
+fr: Veuillez entrer une adresse e-mail valide.
+ru: Просьба ввести действительный электронный адрес.
+de: Bitte geben Sie eine gültige E-Mail-Adresse ein.
+ar: برجاء إدخال بريد إلكتروني صحيح
+zu: Faka i-adresi esebenzayo ye-imeyili
+zh: 请输入有效的电邮地址。
+fa: لطفا یک آدرس ایمل معتبر را وارد کنید
+rif: Siḏef ijjen n lƹunwan n lbarid ilektrunik ig ixeddmen.
+ben: একটি বৈধ ইমেইল ঠিকানা লিখুন।
+
+$ Account_Message_Enter_Valid_Password
+en: Please enter a valid password. Passwords must have at least six characters and can contain letters, numbers and punctuation.
+fr: Veuillez saisir un mot de passe valide. Les mots de passe doivent comporter au moins six caractères et peuvent contenir des lettres, des chiffres et des signes de ponctuation.
+ru: Просьба ввести действительный пароль. Пароль должен быть не короче шести знаков и может содержать буквы, цифры и знаки пунктуации.
+de: Bitte geben Sie ein gültiges Passwort ein. Passwörter müssen aus mindestens sechs Zeichen bestehen und können Buchstaben, Zahlen und Sonderzeichen enthalten.
+ar: برجاء إدخال كلمة مرور صالحة.  كلمة المرور يجب أن تحتوي على 6 مكونات على الأقل ويمكن أن تتكون من حروف وأرقام وعلامات ترقيم
+zu: Faka iphasiwedi esemthethweni. Amaphasiwedi kumele okungenani abe nezinhlamvu eziyisithupha. Angaqukatha izinhlamvu, izinombolo kanye nezimpawu zokubhala.
+zh: 请输入有效的密码。密码需至少包含6个可以为字母、数字，和标点符号的字元。
+fa: لطفاً یک رمزعبور معتبر وارد کنید. رمزعبور باید حداقل شش کاراکتر داشته باشد و می‌تواند شامل حروف، اعداد و علائم نگارشی باشد
+rif: Siḏef ijjen n lkud ig ixeddmen. Kuȓ lkud itxeṣṣa aɣares yiȓi setta n lḥuruf niɣ ḏ l'arqam niɣ ḏ ttarqim.
+ben: একটি বৈধ পাসওয়ার্ড দিন। পাসওয়ার্ডে কমপক্ষে ছয়টি অক্ষর থাকতে হবে এবং এতে অক্ষর, সংখ্যা এবং বিরামচিহ্ন থাকতে পারে।
+
+$ Account_Message_Enter_Email_And_Password
+en: Please enter your email address and password.
+fr: Veuillez saisir votre adresse e-mail et votre mot de passe.
+ru: Просьба ввести электронный адрес и пароль.
+de: Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein.
+ar: برجاء إدخال بريدك الالكتروني وكلمة المرور
+zu: Faka iadresi yakho ye-imeyili nephasiwedi
+zh: 请输入电邮地址和密码。
+fa: لطفاً آدرس ایمیل و رمزعبور خود را وارد کنید
+rif: Siḏef lƹunwan nnec n lbarid ilektrunik ḏ lkud.
+ben: অনুগ্রহ পূর্বক আপনার ইমেল এর ঠিকানা এবং গোপন সংখ্যা প্রদান করুন।
+
+$ Account_Message_Passwords_Not_Matching
+en: Your password confirmation did not match your new password. Please try again.
+fr: La confirmation de votre mot de passe ne correspond pas à votre nouveau mot de passe. Veuillez réessayer.
+ru: Подтверждённый пароль не совпадает с вашим новым паролем. Попробуйте ещё раз.
+de: Die Bestätigung Ihres Passworts stimmte nicht mit Ihrem neuen Passwort überein. Bitte versuchen Sie es erneut.
+ar: التأكيد على كلمة المرور الخاصة بك لم يتوافق مع كلمة المرور الجديدة.  من فضلك حاول مرة أخرى
+zu: isiqinisekiso sephasiwedi yakho asifani nephasiwedi yakho entsha.
+zh: 您确认的密码与新密码不匹配。请重试。
+fa: تأیید رمزعبور شما با رمزعبور جدید همخوانی نداشت. لطفاً دوباره امتحان کنید
+rif: Aḥeqqeq n lkud nnec maci nican ak lkud nnec n jḏiḏ. Ƹaffak, jarreb ƹaweḏ.
+ben: আপনার পাসওয়ার্ড নিশ্চিতকরণ আপনার নতুন পাসওয়ার্ডের সাথে মেলে না। অনুগ্রহপূর্বক আবার চেষ্টা করুন.
+
+$ Account_Message_Incorrect_Email_Password
+en: Sorry, we cannot find this email address and/or password. Please try again.
+fr: Désolé, nous ne trouvons pas cette adresse e-mail et/ou ce mot de passe. Veuillez réessayer.
+ru: Введённый адрес электронной почты и/или пароль не найдены. Попробуйте ещё раз.
+de: Leider können wir diese E-Mail-Adresse und/oder dieses Passwort nicht finden. Bitte versuchen Sie es erneut.
+ar: للأسف، لم نتمكن من الوصول إلى بريدك الالكتروني أو كلمة المرور.  من فضلك حاول مرة أخرى
+zu: Siyaxolisa, asikwazi ukuthola le-adresi ye-imeyili/noma iphasiwedi. Zama futhi.
+zh: 对不起，找不到这个电邮地址或密码。请重试。
+fa: متاسفانه نمی‌توانیم این آدرس ایمیل و/یا رمزعبور را پیدا کنیم. لطفاً دوباره امتحان کنید.
+rif: Lmusamaḥa, war nufi ca lƹunwan-a ḏ/niɣ lkud-a. Ƹaffak, jarreb ƹaweḏ.
+ben: দুঃখিত, আমরা আপনাকে সাইন ইন করতে পারিনি।
+
+$ Account_Message_Sign_In_Error
+en: Sorry, we were unable to sign you in.
+fr: DÃ©solÃ©, nous n'avons pas pu vous connecter.
+ru: К сожалению, попытка входа не удалась.
+de: Leider konnten wir Sie nicht anmelden.
+ar: للأسف، لم نتمكن من إدخالك
+zu: Siyaxolisa. Asikwazi ukukuvumela ungene.
+zh: 对不起，我们无法为你登入。
+fa: متاسفانه نتوانستیم شما را وارد کنیم
+rif: Lmusamaḥa, war nzemmar ac nsiḏef.
+ben: দুঃখিত, আমরা আপনাকে সাইন আপ করতে পারিনি।
+
+$ Account_Message_Sign_Up_Error
+en: Sorry, we were unable to sign you up.
+fr: DÃ©solÃ©, nous n'avons pas pu vous inscrire.
+ru: К сожалению, регистрация не прошла.
+de: Leider konnten wir Sie nicht registrieren.
+ar: للأسف، لم نتمكن من تسجيلك
+zu: Siyaxolisa, asikwazi ukukubhalisa.
+zh: 对不起，我们无法为你注册。
+fa: متاسفانه نتوانستیم شما را ثبت نام کنیم
+rif: Lmusamaḥa, war nzemmar ac nsejjel.
+ben: দু খিত, আমরা আপনাকে স্বাক্ষর করতে পারিনি
+
+$ Account_Message_Database_Error
+en: Please report the following database error:
+fr: Veuillez signaler l'erreur suivante :
+ru: Пожалуйста, сообщите об ошибке базы данных:
+de: Bitte melden Sie den folgenden Datenbankfehler:
+ar: برجاء الإبلاغ عن الخطأ التالي في قاعدة البيانات:
+zu: Bika leli phutha elilandelayo ledathabheyisi:
+zh: 请上报以下错误信息：
+fa: لطفاً خطای پایگاه داده زیر را گزارش دهید
+rif: Ƹaffak, sexbar-aneɣ x lxaṭa' n fiča iy d yusin:
+ben: নিম্নলিখিত ডাটাবেস ত্রুটি রিপোর্ট করুন:
+
+$ Account_Message_Change_Password_Error
+en: Sorry, we were unable to change your password.
+fr: Désolé, nous n'avons pas pu modifier votre mot de passe. Veuillez vérifier votre connexion Internet.
+ru: К сожалению, попытка изменить пароль не удалась.
+de: Leider konnten wir Ihr Passwort nicht ändern.
+ar: للأسف لم نتمكن من تغيير كلمة المرور
+zu: Siyaxolisa, asikwazanga ukushintsha iphasiwedi yakho.
+zh: 对不起，我们无法为你更改密码。
+fa: متاسفانه نتوانستیم رمزعبور شما را تغییر دهیم
+rif: Lmusamaḥa, war nzemmar a nbeddeȓ lkud nnec.
+ben: দুঃখিত, আমরা আপনার পাসওয়ার্ড পরিবর্তন করতে পারিনি।
+
+$ Account_Message_Change_Profile_Error
+en: Sorry, we were unable to change your profile.
+fr: DÃ©solÃ©, nous n'avons pas pu modifier votre profil.
+ru: К сожалению, попытка изменения профиля не удалась.
+de: Leider konnten wir Ihr Profil nicht ändern.
+ar: للأسف، لم نتمكن من تغيير حسابك
+zu: Siyaxolisa, asikwazanga ukushintsha iphrofayili yakho.
+zh: 对不起，我们无法更改你的个人资料。
+fa: متاسفانه نتوانستیم پروفایل شما را تغییر دهیم
+rif: Lmusamaḥa, war nzemmar a nbeddeȓ lmaƹlumaṯ nnec.
+ben: দুঃখিত, আমরা আপনার প্রোফাইল পরিবর্তন করতে পারিনি।
+
+$ Account_Message_Check_Internet
+en: Please check your internet connection.
+fr: Veuillez vérifier votre connexion Internet.
+ru: Проверьте, пожалуйста, ваше соединение с интернетом.
+de: Bitte überprüfen Sie Ihre Internetverbindung.
+ar: برجاء فحص التوصيل بالإنترنت
+zu: Hlola uxhumano lwe-inthanethi yakho.
+zh: 请检查您的网络连接。
+fa: لطفاً اتصال اینترنت خود را بررسی کنید.
+rif: Ƹaffak, ḥeqqeq kuniksyun nnec ḏi lanternet.
+ben: আপনার ইন্টারনেট সংযোগ চেক করুন।
+
+$ Account_Message_Reset_Password_Email_Sent
+en: We have sent you an email to reset your password.
+fr: Nous vous avons envoyé un courriel pour réinitialiser votre mot de passe.
+ru: Мы отправили вам email для изменения вашего пароля.
+de: Wir haben Ihnen eine E-Mail geschickt, um Ihr Passwort zurückzusetzen.
+ar: لقد أرسلنا لك إيميل لتغيير كلمة المرور الخاصة بك
+zu: Sikuthumele i-imeyili ukuze usethe kabusha iphasiwedi yakho.
+zh: 我们发了一个重置密码的邮件给你。
+fa: ما یک ایمیل به شما ارسال کردیم تا رمزعبور خود را بازنشانی کنید
+rif: Nessekk-ac-d ijjen n ṯebrat n lbarid ilektrunik ḥima aḏ teggeḏ lkud nnec zi jḏiḏ.
+ben: আপনার পাসওয়ার্ড বাতিল করার জন্য আমরা আপনাকে একটি ইমেইল পাঠিয়েছি।
+
+$ Account_Message_Email_Already_In_Use
+en: This email address is already in use.
+fr: Cette adresse e-mail est déjà utilisée.
+ru: Этот email уже используется.
+de: Diese E-Mail-Adresse ist bereits in Gebrauch.
+ar: هذا الحساب الالكتروني مستخدم بالفعل
+zu: Le-adresi ye-imeyili isinomuntu oyisebenzisayo.
+zh: 此邮件地址已经被使用。
+fa: این آدرس ایمیل در حال حاضر در استفاده است.
+rif: Lƹunwan-a isteƹmal-iṯ ijjen nneɣni.
+ben: এই ইমেইলটা ইতোমধ্যে ব্যবহৃত হচ্ছে।
+
+$ Account_Message_Delete_Account_Error
+en: Sorry, we were unable to delete your account.
+fr: DÃ©solÃ©, nous n'avons pas pu supprimer votre compte.
+es: Lo sentimos, no hemos podido eliminar su cuenta.\n\nPor favor, compruebe que ha introducido correctamente su contraseña y que dispone de conexión a Internet.
+ru: К сожалению, удалить ваш аккаунт не удаётся.
+ar: للأسف، لم نتمكن من مسح حسابك
+zu: Siyaxolisa, asikwazanga ukusula i-akhawunti yakho.
+zh: 对不起，我们无法删除你的账户。
+fa: متاسفانه نتوانستیم حساب کاربری شما را حذف کنیم
+de: Es tut uns leid, wir konnten Ihr Konto nicht löschen.
+rif: Lmusamaḥa, war nzemmar a nemḥa ȓeḥsab nnec.
+ben: দুঃখিত, আমরা আপনার অ্যাকাউন্ট মুছে ফেলতে পারিনি
+
+$ Account_Message_Delete_Account_Success
+en: Your account was deleted successfully.
+fr: Votre compte a été supprimé avec succès.
+ru: Ваш аккаунт успешно удалён.
+de: Ihr Konto wurde erfolgreich gelöscht.
+ar: تم مسح حسابك بنجاح
+zu: I-akhawunti yakho isulwe ngempumelelo.
+zh: 你的账户已成功删除。
+fa: حساب کاربری شما با موفقیت حذف شد.
+rif: Ȓeḥsab nnec ṣafi itwamḥa nican.
+ben: আপনার অ্যাকাউন্ট সফলভাবে মুছে ফেলা হয়েছে
+
+$ Account_Message_Delete_Account_Need_Password
+en: Please enter your password to delete this account.
+
+$ Notification_Verse_Of_The_Day_Title
+en: Verse of the Day
+fr: Verset du jour
+es: Versículo del día
+ru: Цитата дня
+id: Nats Harian
+ar: آية اليوم
+ta: இன்றைய வசனம்
+de: Vers des Tages
+zu: Ivesi losuku
+zh: 今日经文
+fa: آیه روز
+rif: L'aya n wass-a
+ben: দিনের শ্লোক
+
+$ Notification_Daily_Reminder_Title
+en: Daily Reminder
+fr: Rappel quotidien
+es: Recordatorio diario
+ru: Ежедневное напоминание
+id: Peringatan Harian
+ar: تذكير يومي
+ta: வேத வாசிப்பு
+de: Tägliche Erinnerung
+zu: Isikhumbuzi sansukuzonke
+fa: یادآوری روزانه
+rif: Tteḏkir n kuȓ ass
+ben: দৈনিক অনুস্মারক
+
+$ Notification_Daily_Reminder_Message
+en: Time to read or listen to God's Word
+fr: C'est le moment de lire ou d'écouter la Parole de Dieu
+es: Tiempo para leer o escuchar la Palabra de Dios
+ru: Время читать или слушать Писание
+id: Ini saatnya untuk membaca/mendengar Firman Allah
+ar: حان الوقت للإستماع أو لقراءة كلمة الله
+ta: வேத வசனம் வாசிக்கும் நேரம்
+de: Zeit zum Lesen oder Hören auf Gottes Wort
+zu: Isikhathi sokulalela noma ukufunda iZwi likaNkulunkulu
+fa: زمان برای خواندن یا گوش دادن به کلام خدا
+rif: Ṯusa-d ȓweqṯ aḏ tɣared niɣ aḏ tesȓiḏ i Wawaȓ n Arebbi
+ben: ঈশ্বরের বাক্য পড়ার বা শোনার সময়
+
+$ Notification_Channel_Name_Messages
+en: Messages
+fr: Messages
+id: Pesan
+nl: Berichten
+ta: தகவல்கள்
+ru: Сообщения
+de: Nachrichten
+ar: رسائل
+zu: Imiyalezo
+zh: 信息
+fa: پیام ها
+rif: Lmiṣajaṯ
+ben: বার্তা
+
+$ Notification_Channel_Name_Media_Player
+en: Media Player
+
+$ Notification_Channel_Name_Verse_Of_The_Day
+en: Verse of the Day
+fr: Verset du jour
+es: Versículo del día
+id: Nats Harian
+nl: Vers van de dag
+ta: இன்றைய வசனம்
+ru: Стих дня
+de: Vers des Tages
+ar: آية اليوم
+zu: Ivesi losuku
+zh: 今日经文
+fa: آیه روز
+rif: L'aya n wass-a
+ben: দিনের শ্লোক
+
+$ Notification_Channel_Name_Daily_Reminder
+en: Daily Reminder
+fr: Rappel quotidien
+es: Recordatorio diario
+id: Peringatan Harian
+nl: Dagelijkse herinnering
+ta: இன்றைய வேத வாசிப்பு
+ru: Ежедневное напоминание
+de: Tägliche Erinnerung
+ar: تذكير يومي
+zu: Isikhumbuzi sansukuzonke
+zh: 今日小提示
+fa: یادآوری روزانه
+rif: Tteḏkir n kuȓ ass
+ben: দৈনিক অনুস্মারক
+
+$ Notification_Channel_Name_Images
+en: Images
+fr: Images
+es: Imagenes
+pt: Imagens
+id: Gambar
+nl: Afbeeldingen
+ta: படங்கள்
+ru: Изображения
+de: Bilder
+ar: صور
+zu: Izithombe
+zh: 图片
+fa: تصاویر
+rif: Ttṣawar
+ben: ছবি
+
+$ Notification_Please_Allow
+en: Please allow this app to send you notifications.
+fr: Veuillez autoriser cette application à vous envoyer des notifications.
+ru: Разрешить этому приложению посылать уведомления
+id: Harap izinkan aplikasi ini mengirim notifikasi.
+ar: برجاء السماح لهذا التطبيق بإرسال إشعارات
+nl: Sta toe dat deze app je berichten stuurt.
+ta: உங்களைக்கு நினைவூட்ட இந்த செயலியை அனுமதிக்கிறீரா?
+de: Bitte erlauben Sie dieser App, Ihnen Benachrichtigungen zu senden.
+zu: Vumela le-app ikuthumele amanothifikheshini.
+zh: 请允许此应用给你发送通知。
+fa: لطفاً به این برنامه اجازه بدهید اعلان‌ها را برای شما ارسال کند.
+Ar: برجاء السماح لهذا التطبيق بإرسال إشعارات
+rif: Ƹaffak, ejj tteṭbiq-a aḏac d tessekk l'icƹaraṯ.
+ben: অনুগ্রহ করে এই অ্যাপটিতে আপনার বিজ্ঞপ্তি পাঠানোর অনুমতি দিন
+
+$ Notification_Reason_1
+en: You can receive %s.
+fr: Vous pouvez recevoir %s.
+zu: Ungathola ama-%
+zh: 您可以接收%s
+fa: شما می‌توانید دریافت کنید %s.
+
+$ Notification_Reason_2
+en: You can receive %s and %s.
+fr: Vous pouvez recevoir %s and %s.
+zu: Ungathola ama-% nama-%
+zh: 您可以接收%s和%s
+fa: و می توانید %s و %s را دریافت کنید.
+
+$ Notification_Reason_3
+en: You can receive %s, %s and %s.
+fr: Vous pouvez recevoir %s, %s et %s.
+zu: Ungathola ama-%, nama-% kanye nama-%s.
+zh: 您可以接收%s, %s和%s
+fa: می توانید %s، %s و %s را دریافت کنید.
+
+$ Notification_Reason_Verse_Of_The_Day
+en: a verse of the day
+fr: un verset du jour
+es: un versículo del día
+zu: ivesi losuku
+zh: 今日经文
+fa: یک آیه امروز
+
+$ Notification_Reason_Daily_Reminders
+en: daily reminders
+fr: des rappels quotidiens
+es: recordatorios diarios
+zu: izikhumbuzi zansukuzonke
+zh: 今日小提示
+fa: یادآوری روزانه
+
+$ Notification_Reason_Push_Notifications
+en: messages from the app developers
+fr: messages des développeurs de l'application
+zu: umyalezo ovela kubasunguli be-app
+zh: 来自应用开发者的信息
+fa: شما می‌توانید پیام‌ها از توسعه‌دهندگان برنامه دریافت کنید.
+
+$ Song_List_By_Number
+en: BY NUMBER
+fr: PAR NUMÉRO
+tr: NUMARA GÖRE
+id: Urutan Nomor
+mal: സംഖ്യ പ്രകാരം
+es: POR NÚMERO
+pt: POR NÚMERO
+vi: BẰNG SỐ
+fa: براساس اعداد
+ru: ПО НОМЕРУ
+de: Nach Liednummer
+az: sayı ilə
+ar: بالأرقام
+hi: संख्या से
+te: సంఖ్యను బట్టి
+ko: 숫자별
+ms: IKUT NOMBOR
+nl: PER NUMMER
+ta: வரிசை எண் படி
+zu: NGENOMBOLO
+zh: 按数字
+rif: S RRAQEM
+zh-tw: 依編號排列
+ben: সংখ্যা দ্বারা
+
+$ Song_List_By_Title
+en: BY TITLE
+fr: PAR TITRE
+tr: BAŞLIKLA GÖRE
+id: Urutan Judul
+mal: ടൈറ്റിൽ പ്രകാരം
+es: POR TÍTULO
+pt: POR TÍTULO
+ES: POR TÍTULO
+vi: BẰNG TỰA ĐỀ
+fa: براساس عنوان
+ru: ПО НАЗВАНИЮ
+de: Nach Titel
+az: Adı ilə
+ar: حسب العنوان
+hi: शीर्षक से
+te: శీర్షికను బట్టి
+ko: 제목별
+ms: IKUT TAJUK
+nl: PER TITEL
+ta: தலைப்பின் படி
+zu: NGESIHLOKO
+zh: 按标题
+rif: S L'ƸUNWAN
+zh-tw: 依歌名排列
+ben: শিরোনাম দ্বারা
+
+$ Text_On_Image_Title
+en: Image
+fr: Image
+es: Imagen
+ru: Изображение
+id: Gambar
+ar: صورة
+nl: Afbeelding
+ta: வசனப் படம்
+de: Bild
+zu: Isithombe
+zh: 图片
+fa: تصاویر
+rif: Tteṣwirṯ
+ben: ছবি
+
+$ Text_On_Image_Saved
+en: Image saved
+fr: Image enregistrée
+es: Imagen grabada
+ru: Изображение сохранено
+id: Gambar telah disimpan
+ar: تم حفظ الصورة
+nl: Afbeelding opgeslagen
+ta: வசனப் படம் சேர்த்துவைக்கப்பட்டது
+de: Bild gespeichert
+zu: Isithombe siseyiviwe
+zh: 图片已保存
+fa: تصویر ذخیره شد
+rif: Ṣafi tteṣwirṯ-a ṯetwasejjel
+ben: ছবি সেভ করা হয়েছে
+
+$ Text_On_Image_Video_Saved
+en: Video saved
+fr: Vidéo enregistrée
+id: Video telah disimpan
+ar: تم حفظ الفيديو
+nl: Video opgeslagen
+ta: வசனக் காணொளி சேர்த்துவைக்கப்பட்டது
+ru: Видео сохранено
+de: Video gespeichert
+zu: Ividiyo iseyiviwe
+zh: 视频已保存
+fa: ویدیو ذخیره شد
+rif: Ṣafi vidyu-ya itwasejjel
+ben: ভিডিও সেভ করা হয়েছে
+
+$ Text_On_Image_Save_Image
+en: Save Image
+fr: Enregistrer image
+id: Simpan Gambar
+ar: حفظ الصورة
+nl: Afbeelding opslaan
+ta: வசனப் படத்தை சேர்த்துவை
+ru: Сохранить картинку
+de: Bild speichern
+zu: Seyiva Isithombe
+zh: 保存图片
+fa: تصویر را ذخیره کنید
+rif: Sejjel tteṣwirṯ
+ben: ছবি সংরক্ষণ করুন
+
+$ Text_On_Image_Save_Video
+en: Save Video
+fr: Enregistrer vidéo
+id: Simpan Video
+ar: حفظ الفيديو
+nl: Video opslaan
+ta: வசனக் காணொளியைச் சேர்த்துவை
+ru: Сохранить видео
+de: Video speichern
+zu: Seyiva Isithombe
+zh: 保存视频
+rif: Sejjel vidyu
+ben: ভিডিও সংরক্ষণ করুন
+
+$ Crop_Image_Title
+en: Crop Image
+fr: Recadrer image
+id: Potong Pinggir Gambar
+ar: قص من الصورة
+nl: Afbeelding bijsnijden
+ta: வசனப் படத்தை சீர்படுத்துதல்
+ru: Обрезать картинку
+de: Bild zuschneiden
+zu: Nqampuna Isithombe
+zh: 剪裁图片
+fa: برش تصویر
+rif: Qess tteṣwirṯ
+ben: ফসল ইমেজ
+
+$ Edit_Text_On_Image_Title
+en: Edit Text
+fr: Modifier texte
+id: Edit Teks
+ar: تعديل النص
+nl: Tekst bewerken
+ta: வசனத்தை சீர்படுத்துதல்
+ru: Редактировать текст
+de: Text bearbeiten
+zu: Hlela Umbhalo
+zh: 编辑文本
+fa: ویرایش متن
+rif: Beddeȓ ṯira
+ben: লেখা সম্পাদনা
+
+$ Book_Group_OT
+en: Old Testament
+fr: Ancien Testament
+es: Antiguo Testamento
+pt: Antigo Testamento
+ru: Ветхий Завет
+uk: Старий Заповіт
+tr: Eski Ahit
+id: Perjanjian Lama
+zh: 旧约
+mal: പഴയ നിയമം
+vi: Cựu Ước
+fa: عهد عتیق
+de: Altes Testament
+az: Əhdi Ətiq
+ar: العهد القديم
+hi: पुराना नियम
+te: పాత నిబంధన
+ko: 구약
+nl: Oude Testament
+ta: பழைய ஏற்பாடு
+zu: Ithestamente eliDala
+rif: Ȓƹaheḏ ḏ Aqḏim
+zh-ch: 旧约
+zh-tw: 舊約
+ben: ওল্ড টেস্টামেন্ট
+
+$ Book_Group_NT
+en: New Testament
+fr: Nouveau Testament
+es: Nuevo Testamento
+pt: Novo Testamento
+ru: Новый Завет
+uk: Новий Заповіт
+tr: Yeni Ahit
+id: Perjanjian Baru
+zh: 新约
+mal: പുതിയ നിയമം
+vi: Tân Ước
+fa: عهد جدید
+de: Neues Testament
+az: Əhdi Cədid
+ar: العهد الجديد
+hi: नया नियम
+te: క్రొత్త నిబంధన
+ko: 신약
+nl: Nieuwe Testament
+ta: புதிய ஏற்பாடு
+zu: Ithestamente eliSha
+rif: Ȓƹaheḏ ḏ Jḏiḏ
+zh-ch: 新约
+zh-tw: 新約
+ben: নববিধান
+
+$ Book_Group_DC
+en: Deuterocanonical
+fr: Deutérocanonique
+es: Deuterocanónico
+pt: Deuterocanônicos
+ru: Второканонические книги
+uk: Второканонічні книги
+tr: Deuterocanonical
+id: Ulangan
+zh: 次经
+mal: ഇതര കാനോനിക ഗ്രന്ഥങ്ങള്‍
+vi: Kinh Thánh Thứ Yếu
+de: Apokryphen
+az: Deuterocanonical
+ar: الأسفار القانونية الثانية
+hi: 
+te: డ్యూటెరోకేనానికల్
+fa: اضافه شده
+nl: Deuterokanonieke boeken
+ta: தள்ளுபடி ஆகமங்கள்
+zu: Izincwadi ezi-Deuterocanonical
+rif: Apukrifa
+zh-ch: 次经
+zh-tw: 次經
+ben: ডিউটারোক্যানোনিকাল
+
+$ Layout_Screen_Title
+en: Select Language & Layout
+fr: Langue et agencement
+ru: Выберите язык и разметку
+de: Sprache und Layout auswählen
+ar: اختيار اللغة والترتيبة
+zu: Khetha Ulimi Nesakhiwo
+zh: 选择版本和布局
+fa: انتخاب زبان و طرح
+rif: Xḍar ḏeg yiȓes ḏ Usettef
+
+$ Layout_Single_Pane
+en: Single Pane
+fr: Volet unique
+es: Un solo panel
+pt: Painel Único
+tr: Tek Bölme
+mal: ഒരു പാളി
+ru: Один экран
+id: 1 panel
+ar: عنصر وحيد
+hi: एक पैनल
+te: ఒక ప్యానెల్
+ko: 하나의 단
+ta: ஒரு சட்டத்தில்
+de: Ein Fenster
+zu: Ifasitelana Elilodwa
+zh: 单个版本
+fa: پنجره تک لایه
+rif: Ijjen n ṯburjat
+zh-tw: 單一版本
+ben: একক ফলক
+
+$ Layout_Two_Pane
+en: Two Pane
+fr: Deux volets
+es: Dos paneles
+pt: Painel Duplo
+tr: İki Bölme
+mal: രണ്ട് പാളി
+ru: Два экрана
+id: 2 panel
+ar: عنصرين
+hi: दो पैनल
+te: రెండు ప్యానెల్స్
+ko: 두개의 단
+ta: இரண்டு சட்டத்தில்
+de: Zwei Fenster
+zu: Amafasitelana Amabili
+zh: 版本对照
+fa: دو لایه
+rif: Ṯnayen n ṯburjaṯin
+zh-tw: 雙語對照
+ben: দুই ফলক
+
+$ Layout_Interlinear
+en: Verse by Verse
+fr: Verset par verset
+es: Versículo por versículo
+pt: Versículo por versículo
+tr: Ayet ayet
+mal: വാക്യം പ്രതി വാക്യം
+ru: Стих за стихом
+id: Ayat demi Ayat
+ar: آية تلو آية
+hi: आयत बय आयत
+te: వచనం తరవాత వచనం
+ko: 절별
+ta: வசனத்தின் பின் வசனமாக
+de: Vers für Vers
+zu: Ivesi Ngevesi
+zh: 逐节对照
+fa: آیه به آیه
+rif: L'aya-l'aya
+zh-tw: 逐節對照
+ben: শ্লোক দ্বারা শ্লোক
+
+$ Editor_Insert
+en: Insert Marker
+fr: Insérer Marqueur
+es: Insertar marcador
+pt: Inserir Marcador
+ru: Вставить маркер
+uk: Вставити мітку
+id: Masukkan penanda
+zh: 插入标记
+mal: മാർക്കർ ചേർക്കുക
+ar: إدراج علامة
+hi: निशान डालें
+te: గురుతు పెట్టండి
+ko: 마커 삽입
+de: Markierung einfügen
+zu: I-insert Maker
+fa: وارد کردن نشانگر
+rif: Siḏef lƹalama
+zh-ch: 插入标记
+zh-tw: 插入標記
+
+$ Editor_Insert_Paragraph
+en: Paragraph (\\p)
+fr: Paragraphe (\\p)
+es: Párrafo (\p)
+pt: Parágrafo (\p)
+ru: Абзац (\p)
+uk: Абзац (\p)
+id: Paragraf (\p)
+zh: 段落(\p)
+mal: ഖണ്ഡിക (\p)
+ar: فقرة (\\p)
+hi: अनुच्छेद (\p)
+te: పేరా (\\ p)
+ko: 단락 (\\p)
+de: Absatz (\\p)
+zu: Ipharagrafu (\\p)
+fa: پاراگراف (\\p)
+rif: Lfeqra (\\p)
+zh-ch: 段落 (\p)
+zh-tw: 段落 (\\p)
+
+$ Editor_Insert_Poetry
+en: Poetry (\\q1)
+fr: Poesie (\\q1)
+es: Poesía (\q1)
+pt: Poesia (\q1)
+ru: Поэзия (\q1)
+uk: Поезія (\q1)
+id: Puisi (\q1)
+zh: 诗　(\q1)
+mal: കവിത (\q1)
+ar: الشعر (\\q1)
+hi: कविता  (\q1)
+te: కవిత్వం (\q1)
+de: Gedicht (\\q1)
+zu: Inkondlo (\\q1)
+fa: شعر (\\q1)
+rif: Cciƹer (\\q1)
+zh-ch: 诗　(\q1)
+zh-tw: 詩　(\q1)
+
+$ Editor_Insert_SubHeading
+en: Sub Heading (\\s)
+fr: Sous-titre (\\s)
+es: Sub-título (\s)
+pt: Subtítulo (\s)
+ru: Подзаголовок (\s)
+uk: Підзаголовок (\s)
+id: Sub-Judul (\s)
+zh: 副标题(\s)
+mal: ഉപ തലക്കെട്ട് (\s)
+ar: ترجمة (\\s)
+hi: उप शीर्षक (\s)
+te: ఉపశీర్షిక (\s)
+ko: 부제 (\\s)
+de: Zwischenüberschrift (\\\s)
+zu: Isihlokwana (\\s)
+fa: زیر عنوان (\\s)
+rif: Lƹunwan wis-ṯnayen (\\s)
+zh-ch: 副标题 (\s)
+zh-tw: 副標題 (\\s)
+
+$ Editor_Insert_Footnote
+en: Footnote (\\f ...\\f*)
+fr: Note (\\f ...\\f*)
+es: Nota al pie de página (\f ...\f*)
+pt: Nota de rodapé (\f ...\f*)
+ru: Сноска (\f... \f*)
+uk: Виноска (\f... \f*)
+id: catatan kaki (\f... \f*)
+zh: 脚注(\f... \f*)
+mal: അടിക്കുറിപ്പ്  (\f... \f*)
+ar: ملاحظة (\\f ...\\f*)
+hi: पाद लेख (\f... \f*)
+te: ఫుట్‌నోట్ (\f... \f*)
+ko: 각주 (\\f ...\\f*)
+de: Fußnote (\\\f …\\f*)
+zu: Ifuthinothi (\\f…\\f*)
+fa: پانویس (\\f…\\f*)
+rif: Lmulaḥaḍa aȓ wadday (\\f ...\\f*)
+zh-ch: 脚注(\f... \f*)
+zh-tw: 註解 (\\f ...\\f*)
+
+$ Editor_Insert_Other
+en: Other (\\)
+fr: Autre (\\)
+es: Otro (\\)
+pt: Outro (\\)
+id: lain-lain (\\)
+ru: Прочее (\\)
+uk: Решта (\\)
+zh: 其他的(\\)
+ml‍: മറ്റുള്ളവ (\\)
+ar: آخر  (\\)
+ml: മറ്റുള്ളവ (\\)
+hi: अन्य  (\\)
+te: ఇతర (\\)
+ko: 추가 (\\)
+de: Sonstiges (\\\)
+zu: Okunye (\\)
+fa: دیگر (\\)
+rif: Nneɣni
+zh-ch: 其他的 (\\)
+zh-tw: 其他的 (\\)
+
+$ Plans_Button_Start_Plan
+en: Start Plan
+fr: Commencer
+zu: Isu Lokuqala
+zh: 开始项目
+fa: شروع برنامه
+
+$ Plans_Button_Start_Again
+en: Start Again
+fr: Recommencer
+zu: Qala futhi
+zh: 再次开始
+fa: شروع دوباره
+
+$ Plans_Button_Continue_Reading
+en: Continue
+fr: Continuer
+zu: Qhubeka
+zh: 继续
+fa: ادامه
+
+$ Plans_Button_Next_Reading
+en: Next
+fr: Suivant
+zu: Okulandelayo
+zh: 下一个
+fa: بعدی
+
+$ Plans_Button_View_Plan
+en: View Plan
+fr: Voir plan
+zu: Isu Lomfanekiso
+zh: 浏览计划
+fa: مشاهده برنامه
+
+$ Plans_Button_View_Plans
+en: View Plans
+fr: Voir plans
+zu: Amasu Emifanekiso
+zh: 浏览计划
+fa: مشاهده برنامه ها
+
+$ Plans_Tab_My_Plans
+en: My Plans
+fr: Mes plans
+zu: Amapulani Ami
+zh: 我的计划
+fa: برنامه های من
+
+$ Plans_Tab_Choose_Plan
+en: Choose Plan
+fr: Choisir plan
+zu: Khetha Ipulani
+zh: 选择计划
+fa: انتخاب برنامه
+
+$ Plans_Tab_Completed_Plans
+en: Completed
+fr: Terminés
+zu: Phethile
+zh: 完成
+fa: تکمیل شده
+
+$ Plans_Day
+en: Day
+fr: Jour
+zu: Usuku
+zh: 日
+fa: روز
+
+$ Plans_Number_Days
+en: %d days
+fr: %d jours
+zu: izinsuku ezi-%
+zh: %d日
+fa: روز %d
+
+$ Plans_Date_Started
+en: You started this plan on %s.
+fr: Vous avez commencé ce plan le %s.
+zu: Uqale lelisu nge-%s.
+zh: 计划已开始%s。
+fa: شما این برنامه را در روز %s شروع کردید.
+
+$ Plans_Date_Completed
+en: You completed this plan on %s.
+fr: Vous avez terminé ce plan le %s.
+zu: Uphethe lelisu nge-%s.
+zh: 您已完成此计划的%s。
+fa: شما برنامه را کامل کردید %s.
+
+$ Plans_Progress_Item_Reading
+en: You are reading
+fr: Vous êtes en train de lire
+zu: Ufunda
+zh: 您正在阅读
+fa: شما می خوانید
+
+$ Plans_Progress_Item_Completed
+en: You have completed
+fr: Vous avez lu
+zu: Uphethe
+zh: 您已完成
+fa: تکمیل کردید
+
+$ Plans_Progress_Congratulations
+en: Congratulations!
+fr: Félicitations !
+zu: Siyakuhalalisela!
+zh: 恭喜！
+fa: تبریک می گویم
+
+$ Plans_Progress_Plan_Completed
+en: You have completed the plan
+fr: Vous avez terminé le plan
+zu: Uphethe ipulani
+zh: 您已完成此计划
+fa: شما برنامه را کامل کردید
+
+$ Plans_Progress_Next_Reading
+en: The next reading is
+fr: La lecture suivante est
+zu: Isifundo esilandelayo yi-
+zh: 下一个阅读是
+fa: خواندن بعدی
+
+$ Quiz_Score_Page_Message_Before
+en: You scored
+fr: Vous avez obtenu un score de
+de: Sie haben
+ar: لقد سجلت
+zu: Uzuze
+zh: 已计入
+fa: شما امتیاز کسب کردید
+rif: Ṯrebḥeḏ
+
+$ Quiz_Score_Page_Message_After
+en: out of %n% questions
+fr: sur %n% questions
+de: von %n% der Fragen
+ar: من أصل %n% أسئلة
+zu: emibuzweni eyi-%n%
+zh: 问题中的%n%
+fa: سوال %n% از
+rif: zeg yijjen n %n% n iseqsiṯen
+
+$ Text_Copied
+en: Text copied
+fr: Texte copié
+tr: Metin kopyalandı
+id: Teks disalin
+mal: ടെക്സ്റ്റ് പകർത്തി
+es: Texto copiado
+pt: Texto copiado
+zh: 文本复制
+vi: Văn bản đã được chép
+fa: متن کپی شد
+ru: Текст скопирован
+de: Text kopiert
+az: Mətn Köçürülüb
+ar: نص منسوخ
+hi: टेक्स्ट की प्रतिलिपि बनाई गई
+te: వాక్యం కాపీ చేయబడింది
+ko: 본문 복사됨
+ms: Teks yang disalin
+nl: Tekst gekopieerd
+ta: வாக்கியம் நகல் எடுக்கப்பட்டது
+zu: Umbhalo okopishiwe
+rif: Ṣafi ṯira twanesxent
+zh-tw: 
+ben: লেখা কপি করা হয়েছে
+
+$ Version_Number
+en: Version %s
+fr: Version %s
+tr: Sürüm %s
+es: Versión %s
+pt: Versão%s
+zh: 版本号
+vi: Phiên bản %s
+fa: نسخه ٪s
+ru: Версия %s
+de: Version %s
+id: Versi %s
+az: Versiya(lar) %s
+ar: النسخة %s
+hi: संस्करण %s
+te: పాఠాంతరం % s
+ko: 버전 %s
+ms: Versi %s
+nl: Versie %s
+ta: பதிப்பு %s
+zu: Isihumusho %s
+rif: Ṭṭabƹa %s
+zh-tw: 版本 %s
+ben: সংস্করণ %s
+
+$ Security_Calculator
+en: Calculator
+fr: Calculatrice
+es: Calculadora
+ru: Калькулятор
+pt: Calculadora
+hi: कैलकुलेटर
+te: క్యాలిక్యులేటర్
+id: Kalkulator
+ar: ألة حاسبة
+de: Taschenrechner
+zu: Ikhalikhuletha
+fa: ماشین حساب
+rif: Makina n ȓeḥsab
+
+$ Security_Device_Id
+en: Device ID
+fr: ID de l'appareil
+es: ID del aparato
+ru: ID устройства
+pt: ID do dispositivo
+id: ID alat
+ar: هوية الجهاز
+hi: डिवाइस पहचान (आईडी ID)
+te: పరికరం ID
+ms: ID peranti
+de: Geräte-ID
+zu: I-ID yedivayisi
+fa: شناسه دستگاه
+rif: Isem-ID n ljihaz
+
+$ Security_Enter_PIN
+en: Please enter your PIN
+fr: Veuillez saisir votre code
+ru: Пожалуйста, введите ваш PIN
+es: Por favor ingrese su PIN
+pt: Favor digite seu PIN
+id: Masukkan PIN
+ar: رجاءاً أدخل كلمة التثبيت
+hi: कृपया अपना पिन कोड दर्ज करें
+te: దయచేసి మీ PINని నమోదు చేయండి
+de: Bitte geben Sie Ihre PIN ein
+zu: Faka i-PIN yakho
+fa: پین خود را وارد کنید
+rif: Ƹaffak, siḏef PIN nnec
+
+$ Security_Incorrect_PIN
+en: Incorrect PIN
+fr: Code incorrect
+ru: Неверный PIN
+es: PIN Incorrecto
+pt: PIN incorreto
+id: PIN salah
+ar: التثبيت غير صحيح
+hi: गलत पिन कोड
+te: PINలో తప్పు ఉంది
+ko: 정확하지 않은 PIN 번호 입니다
+de: Falsche PIN
+zu: I-PIN engasiyona
+fa: پین اشتباه
+rif: Lxaṭa' ḏi PIN
+
+$ User_Missing_Fields
+en: Please complete the following fields to continue:
+fr: Veuillez remplir les champs suivants pour continuer :
+ru: Чтобы продолжить, заполните следующие поля:
+de: Bitte füllen Sie die folgenden Felder aus, um fortzufahren:
+ar: برجاء استكمال الفراغات التالية للإستمرار
+zu: Ukuqhubeka, qedela lezi zindima ezilandelayo:
+zh: 请填写以下空白再继续：
+fa: لطفا این جواب ها را تکمیل کنید تا ادامه دهید
+rif: Ƹaffak, ƹemmar lxawiyaṯ ḥima aḏ tsigiḏ:
+
+$ User_Check_Internet
+en: Please check that you have an internet connection, then press the button again to continue.
+fr: Veuillez vérifier que vous disposez d'une connexion Internet, puis appuyez à nouveau sur le bouton pour continuer.
+ru: Проверьте ваше соединение с интернетом и нажмите ещё раз, чтобы продолжить.
+de: Bitte überprüfen Sie, ob Sie eine Internetverbindung haben, und drücken Sie dann erneut auf die Schaltfläche, um fortzufahren.
+ar: برجاء التأكد من إتصالك بالأنترنت، ثم أضغط هذا الزر مرة أخرى للإستمرار
+zu: Qinisekisa ukuthi uxhume ku-inthanethi, bese ucindezela inkinobho futhi ukuze uqhubeke.
+zh: 请确认您已连接到网路，再点击一次继续。
+fa: لطفا بررسی کنید که اتصال اینترنت دارید، سپس دکمه را دوباره فشار دهید تا ادامه یابد
+rif: Ƹaffak, xzar ma ɣarek kuniksyun ḏi lanternet, uca warreḵ x ubuṭun ḥima aḏ tsigiḏ.
+
+$ User_Database_Sign_In_Error
+en: Sorry, we were unable to sign in to the database server.
+fr: Désolé, nous n'avons pas pu nous connecter au serveur de la base de données.
+ru: К сожалению, войти на сервер базы данных не удалось.
+de: Es tut uns leid, wir konnten uns nicht am Datenbankserver anmelden.
+ar: للأسف، لم نتمكن من التسجيل في سيرفر قاعدة البيانات
+zu: Siyaxolisa, asikwazanga ukungena kuseva yedathabheyisi.
+zh: 对不起，我们无法为您登入资料库。
+fa: متاسفانه نتوانستیم وارد سرور پایگاه داده شویم
+rif: Lmusamaḥa, war nzemmar a naḏef ḏi lmuḥerrik n lbaḥt.
+
+$ User_Database_Add_User_Error
+en: Sorry, we were unable to add this information to the online database.
+fr: Désolé, nous n'avons pas pu ajouter cette information à la base de données en ligne.
+ru: К сожалению, добавить информацию к базе данных онлайн не удалось.
+de: Es tut uns leid, wir konnten diese Information nicht in die Online-Datenbank aufnehmen.
+ar: للأسف، لا يمكننا إضافة هذه المعلومة في قاعدة البيانات
+zu: Siyaxolisa, asikwazanga ukufaka lolu lwazi kudathabheyisi e-onlayini.
+zh: 对不起，我们无法添加这条信息至线上资料库。
+fa: متاسفانه نتوانستیم این اطلاعات را به پایگاه داده آنلاین اضافه کنیم
+rif: Lmusamaḥa, war nzemmar a narni lmaƹlumaṯ-a ḏi lmuḥerrik n lbaḥt.
+
+$ Language_en
+en: English
+fr: Anglais
+es: Inglés
+tr: İngilizce
+id: Inggris
+mal: ഇംഗ്ലീഷ്
+pt: Inglês
+zh: 英文
+vi: Tiếng Anh
+fa: انگلیسی
+ru: Английский
+de: Englisch
+az: İngilis dili
+ar: الأنجليزية
+hi: अंग्रेजी
+te: ఆంగ్లము
+ko: 영어
+nl: Engels
+ta: ஆங்கிலம்
+zu: Ulimi lwesiNgisi
+rif: Ṯagȓinziṯ
+ben: ইংরেজি
+
+$ Language_fr
+en: French
+fr: Français
+es: Francés
+tr: Fransızca
+id: Perancis
+mal: ഫ്രഞ്ച്
+pt: Francês
+fa: فرانسوی
+ru: Французский
+de: Französisch
+az: Fransız dili
+ar: الفرنسية
+hi: फ्रांसीसी
+te: ఫ్రెంచ్
+ko: 프랑스어
+nl: Frans
+zu: Ulimi lwesiFulentshi
+zh: 法语
+rif: Ṯafransisṯ
+
+$ Language_ar
+en: Arabic
+fr: Arabe
+ar: العربية
+hi: अरबी
+te: అరబిక్
+de: Arabisch
+fa: عربی
+ko: 아랍어
+es: Árabe
+ru: Арабский
+id: Bahasa Arab
+nl: Arabisch
+zu: Ulimi lwesi-Arabhu
+zh: 阿拉伯语
+rif: Ṯaƹrabṯ
+
+$ Language_de
+en: German
+fr: Allemand
+de: Deutsch
+es: Alemán
+id: Jerman
+az: Alman dili
+hi: जर्मन
+te: జర్మన్
+fa: آلمانی
+ko: 독일어
+ru: Немецкий
+ar: الألمانية
+nl: Duits
+zu: Ulimi lwesi-Jalimane
+zh: 德语
+rif: Ṯalimant
+
+$ Language_id
+en: Indonesian
+fr: Indonesien
+es: Indonesio
+tr: Endonezyaca
+id: Bahasa Indonesia
+mal: ഇന്തോനേഷ്യന്‍
+pt: Indonésio
+fa: اندونزی
+ru: Индонезийский
+de: Indonesisch
+az: İndoneziya dili
+ar: اندونيسية
+hi: इन्डोनेशियाई
+te: ఇండోనేషియన్
+ko: 인도네시아어
+nl: Indonesisch
+zu: Ulimi lwesi-Ndoneshiya
+zh: 印尼语
+rif: Ṯandunisiṯ
+
+$ Language_ko
+en: Korean
+fr: Coréen
+es: Coreano
+ru: Корейский
+id: Bahasa Korea
+ar: الكورية
+nl: Koreaans
+de: Koreanisch
+zu: Ulimi lwesi-Khoriya
+zh: 韩语
+fa: کره ای
+rif: Ṯakuryaniṯ
+
+$ Language_ms
+en: Bahasa Melayu
+fr: Bahasa Melayu
+es: Bahasa Melayu
+ru: Малайский
+id: Bahasa
+ar: بهاسا مالايو
+nl: Maleis
+de: Bahasa Melayu
+zu: Ulimi lwesiBhahasa Melayu
+zh: 马来语
+fa: مالایی
+rif: Bahasa-Milayu
+
+$ Language_nl
+en: Dutch
+fr: Néerlandais
+nl: Nederlands
+ru: Голландский
+de: Niederländisch
+zu: Ulimi lwesiDashi
+zh: 荷兰语
+fa: هلندی
+rif: Ṯahulandiṯ
+
+$ Language_pt
+en: Portuguese
+fr: Portugais
+es: Portugués
+tr: Portekizce
+id: Portugis
+mal: പോര്‍ച്ചുഗീസ്
+pt: Português
+fa: پرتقالی
+ru: Португальский
+de: Portugiesisch
+az: Portuqaliya dili
+ar: برتغالية
+hi: पुर्तगाली
+te: పోర్చుగీస్
+ko: 푸르투갈어
+nl: Portugees
+zu: Ulimi lwesiPutukezi
+zh: 葡萄牙语
+rif: Ṯaburtqizṯ
+
+$ Language_ru
+en: Russian
+fr: Russe
+es: Ruso
+tr: Rusça
+id: Rusia
+mal: റഷ്യന്‍
+pt: Russo
+fa: روسی
+ru: Русский
+de: Russisch
+az: Rus dili
+ar: روسية
+hi: रूसी
+te: రష్యన్
+ko: 러시아어
+nl: Russisch
+zu: Ulimi lwesiRashiya
+zh: 俄罗斯语
+rif: Ṯarusiṯ
+
+$ Language_es
+en: Spanish
+fr: Espagnol
+es: Español
+tr: İspanyolca
+id: Spanyol
+mal: സ്പാനിഷ്‌
+pt: Espanhol
+fa: اسپانیایی
+ru: Испанский
+de: Spanisch
+az: İspan dili
+ar: إسبانية
+hi: स्पेनिश
+te: స్పానిష్
+ko: 스페인어
+nl: Spaans
+zu: Ulimi lwesiSpenishi
+zh: 西班牙语
+rif: Ṯaspanyut
+
+$ Language_tr
+en: Turkish
+es: Turco
+fr: Turc
+tr: Türkçe
+pt: Turco
+fa: ترکی
+ru: Турецкий
+de: Türkisch
+id: Turki
+az: Türk dili
+ar: تركية
+hi: तुर्की
+te: టర్కిష్
+ko: 터키어
+nl: Turks
+zu: Ulimi lwesiThekhishi
+zh: 土耳其语
+rif: Ṯaturkiṯ
+
+$ Language_fa
+en: Farsi
+fr: Farsi
+es: Farsi
+pt: Farsi
+de: Farsi
+id: Farsi
+az: Fars dili
+ar: فارسية
+hi: फ़ारसी
+te: ఫార్సీ
+fa: فارسی
+ko: 페르시아어
+ru: Фарси
+nl: Farsi
+zu: Ulimi lwesiFarsi
+zh: 波斯语
+rif: Ṯa'iraniṯ
+
+$ Language_uk
+en: Ukrainian
+fr: Ukrainien
+tr: Ukraynaca
+id: Ukraina
+mal: ഉക്രേനിയന്‍
+es: Ucraniano
+pt: Ucraniano
+fa: اوکرانی
+ru: Украинский
+de: Ukrainisch
+az: Ukrayna dili
+ar: أكرانية
+hi: यूक्रेनी
+te: ఉక్రేని
+ko: 우크라이너어
+nl: Oekraïens
+zu: Ulimi lwesiYukhreniyeni
+zh: 乌克兰语
+rif: Ṯa'ukraniṯ
+
+$ Language_zh
+en: Chinese (Simplified)
+fr: Chinois (simplifié)
+tr: Çince (Basitleştirilmiş)
+id: Cina
+mal: ചൈനീസ്
+es: Chino (Simplificado)
+pt: Chinês (Simplificado)
+zh: 中文（简体)
+fa: چینی( ساده شده )
+ru: Китайский
+de: Chinesisch (Kurzzeichen)
+az: Çin (Sadələşdirilmiş) dili
+ar: صينية مبسطة
+hi: चीनी
+te: చైనీస్
+ko: 중국어
+nl: Chinees (vereenvoudigd)
+zu: Ulimi lwesiShayina (Olwenziwe lula)
+rif: Ṯacinwiṯ
+
+$ Language_hi
+en: Hindi
+fr: Hindi
+fa: هندی
+ru: Хинди
+es: Hindi
+pt: Hindi
+de: Hindi
+id: Hindi
+az: Hind dili
+ar: هندية
+hi: हिंदी
+te: హిందీ
+nl: Hindi
+ta: இந்தி
+zu: Ulimi lwesiHindi
+zh: 印地语
+rif: Ṯahendawiṯ
+
+$ Language_mal
+en: Malayalam
+fr: Malayalam
+fa: مالایالام
+ru: Малайский
+es: Malabar
+pt: Malaio
+de: Malayalam
+id: Melayu
+az: Malayalam dili
+ar: ملايالم
+hi: मलयालम
+te: మలయాళం
+nl: Malayalam
+ta: மலையாலம்
+zu: Ulimi lwesiMalayalamu
+zh: 马拉雅拉姆语
+rif: Ṯamlayut
+
+$ Language_te
+en: Telugu
+fr: Télougou
+es: Telugu
+ru: Телугу
+id: Bahasa Telugu
+ar: تيلوجو
+nl: Telugu
+ta: தெலுங்கு
+de: Telugu
+zu: Ulimi lwesiThelugu
+zh: 泰卢固语
+fa: تلوگو
+rif: Ṯatelugut
+
+$ Language_vi
+en: Vietnamese
+fr: Vietnamien
+es: Vietnamita
+pt: Vietnamita
+de: Vietnamesisch
+id: Vietnam
+az: Vyetnam dili
+ar: فيتنامية
+hi: वियतनामी
+te: వియత్నామీస్
+fa: ویتنامی
+ru: Вьетнамский
+nl: Vietnamees
+zu: Ulimi lwesiViyethinamisi
+zh: 越南语
+rif: Ṯabitnamiṯ
+
+$ Language_az
+en: Azerbaijani
+fr: Azéri
+hi: आज़रबाइजानी
+te: అజర్బైజాని
+de: Aserbaidschanisch
+fa: آذری
+ko: 아제르바이잔어
+es: Azerbaiyán
+ru: Азербайджанский
+id: Bahasa Azerbaijan
+ar: الأذربيجانية
+nl: Azerbeidzjaans
+zu: Ulimi lwesi-Azibhayijani
+zh: 阿塞拜疆语
+rif: Ṯaberjinaniṯ
+
+$ Chapter_Introduction_Title
+en: Introduction
+fr: Introduction
+es: Introducción
+pt: Introdução
+ru: Предисловие
+uk: Передмова
+tr: Giriş
+id: Pengantar
+zh: 引言
+mal: ആമുഖം
+vi: Giới thiệu
+fa: پیشگفتار
+de: Einführung
+az: Giriş
+ar: مقدمة
+hi: परिचय
+te: పరిచయం
+ms: Pengenalan
+nl: Introductie
+ta: முன்னுரை
+zu: Isingeniso
+rif: Lmuqaddima
+zh-ch: 引言
+zh-tw: 引言
+
+$ Chapter_Introduction_Symbol
+en: i
+fr: i
+es: i
+pt: i
+ru: п
+uk: п
+tr: I
+id: i
+zh: 引
+mal: ആ.
+vi: GT
+fa: پ
+de: i
+az: g
+ar: مق
+hi: प.
+te: ప
+ms: i
+nl: i
+ta: மு
+zu: i
+rif: mq
+zh-ch: 引
+zh-tw: i
+
+$ Share_Apk_Link
+en: Share Link to App Installer File
+fr: Partager le lien vers le fichier d'installation de l'appli
+es: Compartir enlace al archivo del instalador de la aplicación
+pt: Compartilhar link para o Arquivo de Instalação do Aplicativo
+tr: Uygulama Yükleyici Dosyasının Bağlantısını Paylaş
+id: Bagikan tautan ke file aplikasi (APK)
+mal: ആപ്പ് ഇൻസ്റ്റാളർ ഫയലിലേക്ക് ലിങ്ക് പങ്കിടുക
+zh: 分享应用程序安装程序文件的链接
+vi: Chia sẻ liên kết đến các tệp cài đặt App
+fa: پیوند فایل نصب برنامه را به اشتراک بگذارید
+ru: Поделиться ссылкой на файл установщика приложения (.apk)
+de: Link zur App-Datei weitergeben
+az: Tətbiq Yükləyicisi Faylına bağlantı paylaş
+ar: مشاركة الرابط إلى ملف مثبت التطبيق
+hi: ऐप इंस्टालर फ़ाइल का लिंक साझा करें
+te: యాప్ ఇన్‌స్టాలర్ ఫైల్‌కు లింక్‌ను షేర్ చేయండి
+ko: 앱 설치 파일에 대한 링크 공유
+nl: Delen link naar installatiebestand van app
+ta: ஆப் நிறுவி கோப்புக்கான இணைப்பைப் பகிரவும்
+zu: Abelana ngeLinki yeFayela le-App Installer
+rif: Carec rrabiṭ n fiča n tteṭbiq-a
+
+$ Download_APK
+en: Download APK
+fr: Télécharger l'APK
+es: Descargar APK
+pt: Baixar APK
+tr: APK indir
+id: Unduh APK
+mal: APK ഡൗൺലോഡ് ചെയ്യുക
+zh: 下载APK
+vi: Tải xuống APK
+fa: APK را بارگیری کنید
+ru: Скачать APK
+de: APK herunterladen
+az: APK yükləyin
+ar: تحميل APK
+hi: डाउनलोड APK
+te: APK ని డౌన్‌లోడ్ చేయండి
+ko: APK 다운로드
+nl: APK downloaden
+ta: APK ஐ பதிவிறக்கவும்
+zu: Dawuniloda i-APK
+rif: Xemmeȓ fiča n APK
+
+$ Settings_Glossary_Words
+en: Show glossary words
+fr: Montrer mots du glossaire
+hi: शब्दकोश के शब्दों दिखाएं
+te: పదకోశంలోని పదాలు
+fa: نمایش دادن واژه نامه
+es: Mostrar palabras del glosario
+ru: Показывать слова из словаря
+id: Tampilan kata-kata yang ada di kamus
+ar: عرض قائمة الكلمات
+nl: Toon woordenlijst
+ta: அருஞ்சொற்கள் விளக்கம் காண்பி
+de: Wörter im Glossar anzeigen
+zu: Bonisa amagama eglosari
+zh: 显示词汇
+rif: Sbeyyen awaȓen n Umawaȓ
+
+$ Security_Permission_Denied
+en: This device does not have permission to use this app.
+fr: Cet appareil n'a pas la permission d'utiliser cette application.
+id: Maaf, perangkat ini tidak ada izin menggunakan aplikasi ini.
+ar: هذا الجهاز ليس لديه أذن لإستخدام هذا التطبيق
+nl: Dit apparaat heeft geen toestemming om deze app te gebruiken.
+ta: இந்த செயலியை பயன்படுத்த இந்த சாதனத்தில் அனுமதி கொடுக்கப்படவில்லை
+ru: Устройство не имеет разрешения использовать это приложение
+de: Dieses Gerät hat keine Berechtigung zur Nutzung dieser App.
+zu: Le divayisi ayinamvume yokusebenzisa le-app.
+zh: 该设备被禁止安装此应用。
+fa: این دستگاه مجوز استفاده از این برنامه را ندارد
+rif: Ljihaz-a war ɣares bu ttesriḥ ḥima aḏ isteƹmel tteṭbiq-a.
+
+$ iOS_Photo_Library_Usage_Description
+en: so we can give you a choice of background images
+fr: pour nous permettre de vous donner un choix d'images d'arrière-plan
+es: para que podamos ofrecerle una selección de imágenes de fondo
+id: supaya Anda diberikan pilihan gambar latar belakang
+ar: يمكننا منحك الإختيار لصورة الخلفية
+nl: zodat we je een keuze aan achtergrondafbeeldingen kunnen geven
+ta: அதனால் இந்தப் படங்களை உங்களுக்குத் தருகிறோம்
+ru: чтобы предоставить вам выбор фоновых изображений
+de: damit wir Ihnen eine Auswahl an Hintergrundbildern bieten können
+zu: ukuze sikunike izithombe zebhekhirawundi ongakhetha kuzona
+zh: 可以选择是否显示背景图
+fa: تا بتوانیم گزینه هایی از تصاویر پس زمینه برای شما ارائه دهیم
+rif: ḥima a nzemmar aḏac nuc ttṣawar aṯent teggeḏ ḏi ccaca.
+
+$ iOS_Photo_Library_Add_Usage_Description
+en: so we can save the images you create
+fr: pour nous permettre d'enregistrer les images que vous créez
+es: para que podamos guardar las imágenes que crea
+ar: يمكننا حفظ الصورة التي أنشأتها
+rif: ḥima a nzemmar a nsejjel ttṣawar nni iy ṯessufuɣeḏ cek
+
+$ Language_ta
+en: Tamil
+
+$ Account_Delete_Account
+en: Delete Account
+fr: Supprimer compte
+ru: Удалить аккаунт
+de: Konto löschen
+ar: حذف الحساب
+rif: Mḥa ȓeḥsab nnec
+ben: হিসাব মুছে ফেলুন
+
+$ Account_Delete_Account_Confirmation
+en: Do you want to delete your account?\n\nAll your saved highlights, notes and bookmarks will be deleted.
+fr: Voulez-vous supprimer votre compte ? Tous les surlignements, notes et signets que vous avez enregistrés seront supprimés.
+ru: Вы хотите удалить свой аккаунт?\n\nВсе внесенные вами изменения, заметки и закладки будут удалены.
+de: Möchten Sie Ihr Konto löschen?\n\nAlle Ihre gespeicherten Highlights, Notizen und Lesezeichen werden gelöscht.
+ar: هل ترغب في حذف حسابك؟ \n\nسوف يتم حذف كل النقاط الهامة والملاحظات والاشارات المرجعية التي قمت بحفظها
+rif: Ma ṯexseḏ aḏ temḥiḏ ȓeḥsab nnec?\n\nMarra lƹalamaṯ ḏ lmulaḥaḍaṯ ḏ ttaƹliqaṯ nnec aḏ twamḥan.
+ben: আপনি কি আপনার অ্যাকাউন্ট মুছে ফেলতে চান? N \ n আপনার সংরক্ষিত সমস্ত হাইলাইট, নোট এবং বুকমার্ক মুছে ফেলা হবে।
+
+$ Notification_Please_Allow_Info
+en: You can get a verse of the day and daily reminders.
+fr: Vous pouvez recevoir un verset du jour et des rappels quotidiens.
+ru: Вы можете получать цитату дня и ежедневные оповещения
+id: Anda bisa mendapatkan nats harian dan peringatan harian.
+ar: يمكنك أن تتلقى آية وتذكيرًا يوميًا
+nl: Je kunt een vers van de dag en dagelijkse herinneringen ontvangen.
+ta: இன்றைய வசனம் மற்றும் தினசரி நினைவூட்டல்களையும் நீங்கள் பெறலாம்
+de: Sie können einen Vers des Tages und tägliche Erinnerungen erhalten.
+Ar: يمكنك أن تتلقى آية وتذكيرًا يوميًا
+rif: Nzemmar ac d nsekk l'aya n wass-a ḏ tteḏkiraṯ n kuȓ ass.
+ben: আপনি দিনের একটি আয়াত এবং দৈনিক অনুস্মারক পেতে পারেন।
+
+$ Language_zh-tw
+en: Taiwanese
+zh-tw: 繁體中文
+
+$ Device_Id
+en: Device ID
+fr: ID de l'appareil
+es: ID del aparato
+
+$ Menu_Access_Code
+en: Generate Access Code
+
+$ Menu_Text_Size
+en: Text Size
+fr: Taille de police
+es: Tamaño de texto
+pt: Tamanho do texto
+ru: Размер текста
+uk: Розмір тексту
+id: Ukuran teks
+zh-ch: 文字大小
+zh-tw: 文字大小
+
+$ Settings_General
+en: General
+fr: Général
+es: General
+pt: Geral
+zh-tw: 一般設定
+
+$ Language_zh-ch
+en: Chinese (Simplified)
+fr: Chinois (simplifié)
+zh-tw: 中文（簡體）
+
+$ Language_rif
+en: Tarifit
+
+$ Language_zh-tw
+
+$ Language_ben
+en: Bengali
+ben: বাংলা
+
